@@ -1,5 +1,5 @@
 - Getting started
-- [Prueba](DARK%20SOULS.md)
+- [Prueba](DARKSOULS.md)
 - [Start](README.md)
 
 - [Test](test.md)
