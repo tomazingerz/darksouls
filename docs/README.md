@@ -1,4 +1,3 @@
 # Titulo
 
-> An awesome project.
-tomazingerz.github.io/darksouls/
+> [An awesome project.](https://tomazingerz.github.io/darksouls/#/)
