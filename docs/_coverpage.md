@@ -10,7 +10,6 @@
 
 - Si
 
-[Google](https://google.com)
-[Get Started](#titulo)
+[Empieza](#titulo)
 
  
