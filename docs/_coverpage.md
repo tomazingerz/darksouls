@@ -1,8 +1,6 @@
 <!-- _coverpage.md -->
 
-# docsify <small>3.5</small>
-
-[Empieza](DARKSOULS.md)
+# Dark Souls NO-HIT
 
 <!-- background image -->
 
@@ -18,3 +16,4 @@
 
 - Si
 
+[Empieza](DARKSOULS.md)
