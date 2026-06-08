@@ -1,7 +1,7 @@
-- Getting started
-- [Prueba](DARKSOULS.md)
-- [Start](README.md)
-
+- DARK SOULS REMASTERED NO-HIT
+- [Índice](DARKSOULS.md)
+- [Configuración](config.md)
+- [Readme](README.md)
 - [Test](test.md)
     - [Test2](test/test2.md)
   
