@@ -1,6 +1,5 @@
 **REGLAS DS1**
 
-								[volver ↩](https://docs.google.com/document/d/1ByrSqoUyxEISsz-uZTRUDpmlJY10_m2VDxxeiZt5pAE) 
 
 \#GENERAL RULES
 
