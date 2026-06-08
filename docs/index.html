@@ -17,9 +17,17 @@
       loadSidebar: true,
       subMaxLevel: 3,
       coverpage: true
+      search: {
+        maxAge: 86400000, // La memoria del buscador (en milisegundos)
+        paths: 'auto',    // Busca automáticamente en todos tus archivos .md
+        placeholder: 'Buscar en la guía...',
+        noData: '¡No se ha encontrado nada!',
+        depth: 4          // Profundidad de los títulos que escanea
+      }
     }
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
 </body>
 </html>
