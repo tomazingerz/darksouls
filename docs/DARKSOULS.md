@@ -37,7 +37,7 @@ Recomendado para rutear/jugar
 * [**Character planner**](https://www.mugenmonkey.com/darksouls) \- Calcula tu build  
 * [**Bug fixes**](https://docs.google.com/document/d/10x1WN5Hupc_I8hCaLgBKyzJg4qlWqH_qaJtPp_9c-Xc/edit?tab=t.0) \- QOL Details  
 * [**Mod Selection**](https://docs.google.com/document/d/14Kjq3n1rk7ZxtG7itEjSfWzac8Y5aCu2cNe9riBwsN0) \- Edits visuales y QOL  
-* **Reglas** \- [TeamHitless](https://www.teamhitless.com/games/fromsoftware-games/dark-souls/) / [backup](https://docs.google.com/document/d/1kfAQ8eISlIGONLpvKMxRx62iqEq5N1ediF_jeNyN8-M/edit?tab=t.0)  
+* **Reglas** \- [TeamHitless](https://www.teamhitless.com/games/fromsoftware-games/dark-souls/) / [backup](reglas.md)  
 * [**Remastered**](https://docs.google.com/document/d/14pavoeLto60ZR9Y19U5JYl36hZFtZhPEyZRU1uLD9Ls/edit?usp=sharing) \- Puedes jugar el último parche  
 * [**PTDE**](https://docs.google.com/document/d/13OIA5keouzqCOHBcJYApIHQ7Yuvd49NYlimudzFMyZc) \- Puedes jugar la version original 
 
