@@ -19,7 +19,7 @@ Elige una
 * **[PLATINO](https://docs.google.com/document/d/1HnruWkGNe9euYQ2XlbwEHFQS4fD-TQMc5HarBdbKdj4/edit?tab=t.0)** \- **WIP** / **WIP**  
 * **[DEMON RUN](https://docs.google.com/document/d/1oJ2rBv-46-aS82S1wUcV320nO7LM61fuq9qreXYufCs/edit?tab=t.0)** \- **WIP** / [link](https://www.youtube.com/watch?v=oKLgnPxupwc)
 
-[**Notas**](https://docs.google.com/document/d/1bBdpUJwSewV8i9ew8ugXBi2Qm2ps7_-QfWGdXksEmWk/edit?tab=t.0) **· [Guia](https://www.youtube.com/watch?v=wHqvwUaRkTA) · [Socials](http://discordapp.com/users/147768192150798336) · [Paypal](https://www.paypal.com/paypalme/tomazingerz) · [TheHitless](https://thehitless.com/runners/tomazingerz/)**
+[**Notas**](https://docs.google.com/document/d/1bBdpUJwSewV8i9ew8ugXBi2Qm2ps7_-QfWGdXksEmWk/edit?tab=t.0) **· [**Guia**](https://www.youtube.com/watch?v=wHqvwUaRkTA) · [**Socials**](contacto.mp)
 
 ---
 
