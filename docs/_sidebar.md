@@ -1,11 +1,11 @@
 - DARK SOULS REMASTERED NO-HIT
-- [Índice](DARKSOULS.md)
+- [Contenidos](README.md)
+- [Listado](DARKSOULS.md)
 - [Configuración](config.md)
 - [Bug Fixes](bugfixes.md)
 - [Mod Selection](mods.md)
 - [Reglas](reglas.md)
 - [Remastered](remastered.md)
 - [PTDE](ptde.md)
-- [Readme](README.md)
 - [Contacto](contacto.md)
     - [Test2](test/test2.md)
