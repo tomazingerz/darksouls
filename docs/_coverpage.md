@@ -7,3 +7,5 @@
 - Todo lo que necesitas saber para mejorar tu experiencia en la No-Hit
 
 [Empieza](#Contenidos)
+
+![](_media/fondo.jpg)
