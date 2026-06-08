@@ -30,16 +30,16 @@ Recomendado para rutear/jugar
 * [**DSR Gadget**](https://github.com/Nordgaren/DSR-Gadget-Local-Loader/releases) \- No Death, TP, Spawn Item, etc / Incluye Modo Online Safe **Recomendado**  
 * [**Silky Souls**](https://github.com/borgCode/SilkySouls/releases) \- No Clip, All in One Tool, extra features / Uso en Steam Offline **Alternativa**  
 * [**Gadgetlemage**](https://github.com/CapitaineToinon/Gadgetlemage) \- Farmea armas de BK automaticamente  
-* [**Configuración previa**](https://docs.google.com/document/d/13JTkJhQvxQDI5h4fRajmqGl3JedPbpfkDbT1NtejQk4) \- HUD, Brillo, Controles  
+* [**Configuración previa**](config.md) \- HUD, Brillo, Controles  
 * [**Autosplitter**](https://github.com/borgCode/AutoHitCounter) \- Simple Hit Counter for From Software games **Recomendado**  
 * [**Hit Tracker**](https://github.com/valkyaha/HitTracker-Release/releases) \- OBS integration, autosplitter support, and multi-run tracking. **Alternativa**  
 * [**Wiki**](http://darksouls.wikidot.com/) \- Info de Items, Clases, Armas, NPC, etc  
 * [**Character planner**](https://www.mugenmonkey.com/darksouls) \- Calcula tu build  
-* [**Bug fixes**](https://docs.google.com/document/d/10x1WN5Hupc_I8hCaLgBKyzJg4qlWqH_qaJtPp_9c-Xc/edit?tab=t.0) \- QOL Details  
-* [**Mod Selection**](https://docs.google.com/document/d/14Kjq3n1rk7ZxtG7itEjSfWzac8Y5aCu2cNe9riBwsN0) \- Edits visuales y QOL  
+* [**Bug fixes**](bugfixes.md) \- QOL Details  
+* [**Mod Selection**](mods.md) \- Edits visuales y QOL  
 * **Reglas** \- [TeamHitless](https://www.teamhitless.com/games/fromsoftware-games/dark-souls/) / [backup](reglas.md)  
-* [**Remastered**](https://docs.google.com/document/d/14pavoeLto60ZR9Y19U5JYl36hZFtZhPEyZRU1uLD9Ls/edit?usp=sharing) \- Puedes jugar el último parche  
-* [**PTDE**](https://docs.google.com/document/d/13OIA5keouzqCOHBcJYApIHQ7Yuvd49NYlimudzFMyZc) \- Puedes jugar la version original 
+* [**Remastered**](remastered.md) \- Puedes jugar el último parche  
+* [**PTDE**](pdte.md) \- Puedes jugar la version original 
 
 ---
 
