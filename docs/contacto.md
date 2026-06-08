@@ -6,4 +6,4 @@
 - [TikTok](https://www.tiktok.com/@tomazingerz)
 - [Twitch](https://www.twitch.tv/tomazingerz)
 - [Twitter](https://x.com/tomazinger_z)
-- [Youtube](https://www.youtube.com/channel/UC614t0FD9WbVWR04wykkAsQ)
+- [Youtube](https://youtube.com/@tomazingerz)
