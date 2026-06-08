@@ -19,8 +19,6 @@ Elige una
 * **[PLATINO](https://docs.google.com/document/d/1HnruWkGNe9euYQ2XlbwEHFQS4fD-TQMc5HarBdbKdj4/edit?tab=t.0)** \- **WIP** / **WIP**  
 * **[DEMON RUN](https://docs.google.com/document/d/1oJ2rBv-46-aS82S1wUcV320nO7LM61fuq9qreXYufCs/edit?tab=t.0)** \- **WIP** / [link](https://www.youtube.com/watch?v=oKLgnPxupwc)
 
-[**Notas**](https://docs.google.com/document/d/1bBdpUJwSewV8i9ew8ugXBi2Qm2ps7_-QfWGdXksEmWk/edit?tab=t.0) · [**Guia**](https://www.youtube.com/watch?v=wHqvwUaRkTA) · [**Socials**](contacto.md)
-
 ---
 
 ## Tools  
@@ -166,3 +164,4 @@ Momentos raros, graciosos
 * **ABDLC Sorcery** \- [link](https://www.youtube.com/watch?v=nRYpnI36Axk&list=TLPQMjkwMTIwMjaL-Fh9Ozz8jg&index=5&pp=iAQBsAgC)  
 * [**AB Master Run**](https://www.youtube.com/watch?v=UqvUEiUfZqQ)  
 * [**AB SL1 No Roll**](https://www.youtube.com/watch?v=FU_0J8mWark)
+* [**Notas**](https://docs.google.com/document/d/1bBdpUJwSewV8i9ew8ugXBi2Qm2ps7_-QfWGdXksEmWk/edit?tab=t.0) · [**Guia**](https://www.youtube.com/watch?v=wHqvwUaRkTA)
