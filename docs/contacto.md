@@ -1,5 +1,6 @@
+- [tomazingerz.github.io](DARKSOULS.md)ç
+  
 - [Github](https://github.com/tomazingerz)
-- [tomazingerz.github.io](DARKSOULS.md)
 - [Paypal](https://paypal.me/tomazingerz)
 - [Spotify](https://open.spotify.com/user/tomazingerz)
 - [Steam](https://steamcommunity.com/profiles/76561198059039846)
