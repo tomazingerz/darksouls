@@ -8,7 +8,6 @@
     - [Remastered](remastered.md)
     - [PTDE](ptde.md)
     - [Contacto](contacto.md)
-    - [Test2](test/test2.md)
 - PARTE 2
     - [Contenidos](README.md)
 - PARTE 3
