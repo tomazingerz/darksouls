@@ -3,6 +3,7 @@
 - [Configuración](config.md)
 - [Bug Fixes](bugfixes.md)
 - [Mod Selection](mods.md)
+- [Reglas](reglas.md)
 - [Remastered](remastered.md)
 - [PTDE](ptde.md)
 - [Readme](README.md)
