@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-# DARK SOULS NO-HIT
+# ⚔️ DARK SOULS NO-HIT ⚔️
 
 <!-- background: url(docs/cover.jpg) -->
 
