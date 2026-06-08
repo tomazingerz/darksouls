@@ -1,5 +1,4 @@
-- [tomazingerz.github.io](DARKSOULS.md)ç
-  
+- [tomazingerz.github.io](DARKSOULS.md)
 - [Github](https://github.com/tomazingerz)
 - [Paypal](https://paypal.me/tomazingerz)
 - [Spotify](https://open.spotify.com/user/tomazingerz)
