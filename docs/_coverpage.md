@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-# <small>:crossed_swords:<small> DARK SOULS NO-HIT <small>:crossed_swords:<small>
+# DARK SOULS NO-HIT
 
 <!-- background: url(cover.jpg) -->
 
@@ -12,4 +12,4 @@
 
 - Todo lo que necesitas saber para mejorar tu experiencia en la No-Hit
 
-[Empieza](#DARKSOULS)
+[Empieza](#README)
