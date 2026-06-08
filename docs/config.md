@@ -6,5 +6,3 @@
  •    **Cam x6** \- Velocidad de cámara x6 o más  
  •    **HUD x0.85** \- Para ver desde el inventario las activas de la esquina superior izquierda   
  •    **Camara de pared \[SI\]** \- Especialmente para que el Bomabtruco funcione
-
-								[volver ↩](https://docs.google.com/document/d/1ByrSqoUyxEISsz-uZTRUDpmlJY10_m2VDxxeiZt5pAE) 
