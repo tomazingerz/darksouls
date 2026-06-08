@@ -1,12 +1,12 @@
 <!-- _coverpage.md -->
 
-## DARK SOULS NO-HIT
+# DARK SOULS NO-HIT
 
 <!-- background: url(cover.jpg) -->
 
 <!-- ![logo](_media/icon.svg) -->
 
-# Herramientas, Rutas, Trucos y Consejos
+## Herramientas, Rutas, Trucos y Consejos
 
 > by [tomazingerz](contacto.md)
 
