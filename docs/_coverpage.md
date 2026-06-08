@@ -2,7 +2,7 @@
 
 # DARK SOULS NO-HIT
 
-<!-- background: url(cover.jpg) -->
+<!-- background: url(docs/cover.jpg) -->
 
 <!-- ![logo](_media/icon.svg) -->
 
