@@ -1,15 +1,15 @@
   
-# [**DARK SOULS NO-HIT**](https://docs.google.com/document/d/1ByrSqoUyxEISsz-uZTRUDpmlJY10_m2VDxxeiZt5pAE)	**by tomazingerz**  
+# [DARK SOULS NO-HIT](https://docs.google.com/document/d/1ByrSqoUyxEISsz-uZTRUDpmlJY10_m2VDxxeiZt5pAE)	**<small>by tomazingerz</small>**  
 Herramientas, Rutas, Trucos y Consejos
 
-## **RUTA ANY%**  
+## Ruta Any%  
 Elige una 
 
 * **[ALABARDA](https://docs.google.com/document/d/1gV3G0cJ4vSRABKdRS41N4-7XiPVfUxKBx54EgeE0Kh4/edit?tab=t.0)** \- 1:15\~IGT / [link](http://youtu.be/gDCmB3NTChA) / [2](https://www.youtube.com/watch?v=bbfLjgING-o)  
 * **[HYBRID](https://docs.google.com/document/d/1eSmbqp6roVuGBaYUIpvTQv8yKXBDgPk_7Zam8jYk9CU/edit?tab=t.0)** \- 1:30\~IGT / [link](https://youtu.be/xSr-oieVmjw)  
 * **[BKH](https://docs.google.com/document/d/1xIT5qnG2yEQcU7gVAS2WhBhtHeVMF5pbnYvX-gNo9kE/edit?usp=sharing)** \- 1:30\~IGT / [link](https://www.youtube.com/watch?v=N3WZjRmt-UI)
 
-## **OTRAS RUNS**
+## Otras Runs
 
 * **[ONLY SORCERY](https://docs.google.com/document/d/1HUitjCsUL0j3C0F6od4gkl4XuYGJNHQW6VAveGRTmWg/edit?tab=t.0)** \- **WIP** / [link](http://youtu.be/ZBHFC29fx4s)  
 * **[ONLY PYROS](https://docs.google.com/document/d/1EyZEVec6zNQ-7fmC6TgNvOc9VGE2e26ysgPF1GThufo/edit?tab=t.0)** \- 1:30\~IGT / [link](https://www.youtube.com/watch?v=Rr-F066KXn4)  
@@ -23,7 +23,7 @@ Elige una
 
 ---
 
-## **TOOLS**  
+## Tools  
 Recomendado para rutear/jugar
 
 * [**Save organizer**](https://github.com/Kahmul/SpeedSouls-Save-Organizer/releases) \- Organiza archivos de guardado / [Tutorial](https://www.youtube.com/watch?v=jL5eDgiyYXE)  
@@ -43,7 +43,7 @@ Recomendado para rutear/jugar
 
 ---
 
-## **STRATS**  
+## Strats  
 Detalles de la Any%
 
 * [**Bombatruco**](https://www.youtube.com/watch?v=3lT8AN2Sdf4) \- Script de Gárgolas / [Version 2](https://www.youtube.com/watch?v=krU51U1PUfE)  
@@ -61,7 +61,7 @@ Detalles de la Any%
 
 ---
 
-## **DATA**  
+## Data  
 Información relevante para Any%
 
 * [**Vagrants**](https://youtu.be/Xqg6FeRe0I4) \- Recomendable jugar offline  
@@ -79,7 +79,7 @@ Información relevante para Any%
 
 ---
 
-## **BOSSES**  
+## Bosses  
 Peleas de la Any% en detalle
 
 * [**Iron Golem Stagger**](https://youtube.com/clip/UgkxMeUkHJb-bnlp6o9bM9ycERLPxLwZ48zh?si=akjuPt9XZU8ksHW4) \- Daño para que el Golem se caiga  
@@ -95,7 +95,7 @@ Peleas de la Any% en detalle
 
 ---
 
-## **CHEESE**  
+## Cheese  
 Estrategias alternativas para jefes / Jefes de All Bosses
 
 * [**Ornstein Cheese**](https://www.youtube.com/watch?v=UVnBLLBVRVU) \- Script para O\&S  
@@ -116,7 +116,7 @@ Estrategias alternativas para jefes / Jefes de All Bosses
 
 ---
 
-## **EXTRA**  
+## Extra  
 Strats no necesarias para Any%
 
 * [**Early Gold Pine Resin**](https://youtu.be/0sfTp2rLS28?feature=shared&t=185) \- Salto para pillar el item de forma alternativa  
@@ -135,7 +135,7 @@ Strats no necesarias para Any%
 
 ---
 
-## **CLIPS**  
+## Clips  
 Momentos raros, graciosos
 
 * **Bugazo CINE** \- [link](https://www.youtube.com/watch?v=BB0qa-8TT9o)  
@@ -153,7 +153,7 @@ Momentos raros, graciosos
 
 ---
 
-## **EXTRA / WIP**
+## WIP
 
 * **Guia Capde AB**  
   * Blue golem \- [link](https://youtu.be/1pHyueh2Adw?feature=shared&t=13822)  
