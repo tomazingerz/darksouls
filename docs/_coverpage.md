@@ -12,4 +12,4 @@
 
 - Todo lo que necesitas saber para mejorar tu experiencia en la No-Hit
 
-[Empieza](#README)
+[Empieza](#Titulo)
