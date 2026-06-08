@@ -1,5 +1,5 @@
 - [Contenidos](README.md)
-- DARK SOULS REMASTERED NO-HIT
+- DARK SOULS NO-HIT
     - [Listado](DARKSOULS.md)
     - [Configuración](config.md)
     - [Bug Fixes](bugfixes.md)
