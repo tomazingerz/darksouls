@@ -1,6 +1,6 @@
   
 # [DARK SOULS NO-HIT](https://docs.google.com/document/d/1ByrSqoUyxEISsz-uZTRUDpmlJY10_m2VDxxeiZt5pAE)	
-**<small>by tomazingerz</small>**  
+<small>by tomazingerz</small>  
 Herramientas, Rutas, Trucos y Consejos
 
 ## Ruta Any%  
