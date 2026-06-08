@@ -1,19 +1,15 @@
 <!-- _coverpage.md -->
 
-# Dark Souls NO-HIT
+# <small>:crossed_swords:<small> DARK SOULS NO-HIT <small>:crossed_swords:<small>
 
-<!-- background image -->
-
-![](docs/cover.jpg)
+<!-- background: url(cover.jpg) -->
 
 <!-- ![logo](_media/icon.svg) -->
 
-# :crossed_swords:
+# Herramientas, Rutas, Trucos y Consejos
 
-# Test 
+> by [tomazingerz](contacto.md)
 
-> Commit inicial 
+- Todo lo que necesitas saber para mejorar tu experiencia en la No-Hit
 
-- Si
-
-[Empieza](DARKSOULS.md)
+[Empieza](#DARKSOULS)
