@@ -1,4 +1,4 @@
-- [tomazingerz.github.io](DARKSOULS.md)
+- [tomazingerz.github.io](_coverpage.md)
 - [Github](https://github.com/tomazingerz)
 - [Paypal](https://paypal.me/tomazingerz)
 - [Spotify](https://open.spotify.com/user/tomazingerz)
