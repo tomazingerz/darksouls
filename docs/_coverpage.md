@@ -10,4 +10,4 @@
 
 <!-- background image -->
 
-![](_media/cover.jpg)
+![](_media/cover.png)
