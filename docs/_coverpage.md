@@ -1,10 +1,4 @@
-<!-- _coverpage.md -->
-
 # DARK SOULS NO-HIT
-
-<!-- background: url(docs/cover.jpg) -->
-
-<!-- ![logo](_media/icon.svg) -->
 
 ## Herramientas, Rutas, Trucos y Consejos
 
