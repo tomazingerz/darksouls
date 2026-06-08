@@ -39,7 +39,7 @@ Recomendado para rutear/jugar
 * [**Mod Selection**](mods.md) \- Edits visuales y QOL  
 * **Reglas** \- [TeamHitless](https://www.teamhitless.com/games/fromsoftware-games/dark-souls/) / [backup](reglas.md)  
 * [**Remastered**](remastered.md) \- Puedes jugar el último parche  
-* [**PTDE**](pdte.md) \- Puedes jugar la version original 
+* [**PTDE**](ptde.md) \- Puedes jugar la version original 
 
 ---
 
