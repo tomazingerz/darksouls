@@ -3,7 +3,7 @@
 Herramientas, Rutas, Trucos y Consejos
 
 **RUTA ANY%**  
-Elige una
+Elige una 
 
 * **[ALABARDA](https://docs.google.com/document/d/1gV3G0cJ4vSRABKdRS41N4-7XiPVfUxKBx54EgeE0Kh4/edit?tab=t.0)** \- 1:15\~IGT / [link](http://youtu.be/gDCmB3NTChA) / [2](https://www.youtube.com/watch?v=bbfLjgING-o)  
 * **[HYBRID](https://docs.google.com/document/d/1eSmbqp6roVuGBaYUIpvTQv8yKXBDgPk_7Zam8jYk9CU/edit?tab=t.0)** \- 1:30\~IGT / [link](https://youtu.be/xSr-oieVmjw)  
