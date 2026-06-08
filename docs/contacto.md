@@ -1,6 +1,6 @@
 - [Github](https://github.com/tomazingerz)
 - [tomazingerz.github.io](DARKSOULS.md)
-- [Paypal](paypal.me/tomazingerz)
+- [Paypal](https://paypal.me/tomazingerz)
 - [Spotify](https://open.spotify.com/user/tomazingerz)
 - [Steam](https://steamcommunity.com/profiles/76561198059039846)
 - [TikTok](https://www.tiktok.com/@tomazingerz)
