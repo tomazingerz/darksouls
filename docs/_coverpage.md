@@ -10,6 +10,4 @@
 
 - Si
 
-[Empieza](#titulo)
-
- 
+[Empieza](DARKSOULS.md)
