@@ -9,3 +9,6 @@
 - [PTDE](ptde.md)
 - [Contacto](contacto.md)
     - [Test2](test/test2.md)
+- PARTE 2
+- PARTE 3
+- PARTE 4
