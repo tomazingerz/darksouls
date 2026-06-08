@@ -1,12 +1,16 @@
 <!-- _coverpage.md -->
 
+# docsify <small>3.5</small>
+
+[Empieza](DARKSOULS.md)
+
 <!-- background image -->
 
-![](cover.jpg)
+![](docs/cover.jpg)
 
 <!-- ![logo](_media/icon.svg) -->
 
-# :feet:
+# :crossed_swords:
 
 # Test 
 
@@ -14,4 +18,3 @@
 
 - Si
 
-[Empieza](DARKSOULS.md)
