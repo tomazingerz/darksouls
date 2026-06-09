@@ -13,3 +13,11 @@
 - [Twitter](https://x.com/tomazinger_z)
 - [Youtube](https://youtube.com/@tomazingerz)
 - [Paypal](https://paypal.me/tomazingerz)
+
+
+<details>
+<summary>🏴‍☠️ Acceso al juego</summary>
+
+Contenido aquí...
+
+</details>
