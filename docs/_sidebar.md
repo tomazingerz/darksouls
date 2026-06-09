@@ -3,11 +3,10 @@
 - [Wiki](DARKSOULS.md)
 - [Mod Selection](mods.md)
 - [Reglas](reglas.md)
+- [Acceso al juego](remastered.md)
 - PARTE 4
     - [Configuración](config.md)
     - [Bug Fixes](bugfixes.md)
-    - [Remastered](remastered.md)
-    - [PTDE](ptde.md)
     - [Contacto](contacto.md)
 - PARTE 2
     - [Contenidos](README.md)
