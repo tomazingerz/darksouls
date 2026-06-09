@@ -44,7 +44,7 @@
 - For Pyro Only runs it is ALLOWED to fight and kill Queelag, Ceaseless Discharge, Centipede Demon and Bed of Chaos in any way incl. all Weapons, Consumables & other Schools of Magic since they are 100% immune to fire damage.
 - For Miracle Only runs it is ALLOWED to choose the Cleric starting class and use the Mace in the Asylum area only since you aren't able to use damaging miracles there.
 
-## Estra
+## Extra
 
 - Stone Knights slow debuff, before Moonlight Butterfly bossfight is a hit.
 - Invader stagger during invasion, when the player stands on top of him is a hit.
