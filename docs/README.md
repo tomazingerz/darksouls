@@ -1,4 +1,4 @@
-# Contenidos
+# Indice
 
 - [Contenidos](README.md)
 - [Listado](DARKSOULS.md)
