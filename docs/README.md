@@ -67,3 +67,11 @@
 * [RRSS](contacto.md#rrss)
 
 </details>
+
+<details>
+  <summary>Contacto</summary>
+  <ul>
+    <li><a href="#/contacto?id=sugerencias">Sugerencias</a></li>
+    <li><a href="#/contacto?id=rrss">RRSS</a></li>
+  </ul>
+</details>
