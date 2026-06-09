@@ -1,4 +1,4 @@
-- [Contenidos](README.md)
+- [Índice](README.md)
 - [RUTAS](rutas.md)
 - PARTE 3
     - [Listado](DARKSOULS.md)
