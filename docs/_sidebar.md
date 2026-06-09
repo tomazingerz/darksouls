@@ -1,5 +1,5 @@
 - [Contenidos](README.md)
-- DARK SOULS NO-HIT
+- **RUTAS**
     - [Listado](DARKSOULS.md)
     - [Configuración](config.md)
     - [Bug Fixes](bugfixes.md)
