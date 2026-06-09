@@ -3,26 +3,26 @@
 Selección de mods para tu partida
 
 ## Tools  
-> Herramientas  
+> _Herramientas_ 
 - [**Texture Packer Unpacker**](https://www.nexusmods.com/darksoulsremastered/mods/9) \- Unpack game's textures and replace them / [Tutorial](https://www.youtube.com/watch?v=D7zEDHe-Acw)
 - [**Appearance Preset Tool**](https://www.nexusmods.com/darksoulsremastered/mods/713) \- Exporting and importing character appearance data
 - [**SoulMerge**](https://www.nexusmods.com/darksoulsremastered/mods/1155) \- GUI utility that merges gameparam files
 
 ## Shield  
-> Modifica la textura del Escudo Emblema de Hierba  
+> _Modifica la textura del Escudo Emblema de Hierba_
 - [**Custom Shield (DXT1)**](https://www.nexusmods.com/darksoulsremastered/mods/343) \- Project Files for making custom shield textures / [Tutorial](https://youtu.be/5u_pIC9U_OE)  / [Parts IDs](https://gist.github.com/Meowmaritus/50311377844f79fb00aab9a8d9bf0d37)
 
 ## Online  
-> Juega con amigos  
+> _Juega con amigos_
 - [**Seamless Co-op**](https://www.nexusmods.com/darksoulsremastered/mods/899) \- Overhaul to the co-operative aspect of Dark Souls' multiplayer
 
 ## Fixes  
-> Arreglos de bugs  
+> _Arreglos de bugs_
 - [**Anor Londo Spawn Fix**](https://www.nexusmods.com/darksoulsremastered/mods/156) \- Fix spawnpoint after dying in Dark Anor Londo
 - [**Ariamis Moan% Fix**](https://www.nexusmods.com/darksoulsremastered/mods/274) \- One-shotting Priscilla no longer softlocks your game
 
 ## Visual  
-> Que bonito queda el juego  
+> _Que bonito queda el juego_ 
 - [**Bonfire Visual Fix**](https://www.nexusmods.com/darksoulsremastered/mods/80) \- Replace the resting at a bonfire effect
 - [**Clean Character Creation**](https://www.nexusmods.com/darksoulsremastered/mods/449) \- Removes the overlay on the Charactor Creator
 - [**Christmas Trees**](https://www.nexusmods.com/darksoulsremastered/mods/180) \- Feliz Navidad
@@ -47,11 +47,11 @@ Selección de mods para tu partida
 ?> If you have other mods you would like to use, install them before [PTDE Bonfire](https://www.patreon.com/posts/ptde-bonfire-mod-135563882)\!
 
 ## Retexturizado  
-> Que relindo queda el juego  
+> _Que relindo queda el juego_ 
 - [**Re-Remastered**](https://www.nexusmods.com/darksoulsremastered/mods/642) \- Textures AI upscaled and ported from PTDE
 
 ## Extra 
-> Merece la pena probarlos  
+> _Merece la pena probarlos_
 - [**More Online Messages**](https://www.nexusmods.com/darksoulsremastered/mods/507) \- Custom community-submitted soapstone messages
 - [**Visible crystal cave**](https://www.nexusmods.com/darksoulsremastered/mods/746) \- Make the invisible paths in the Crystal Cave visible  
 \+\*  
