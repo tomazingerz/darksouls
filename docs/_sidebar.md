@@ -1,11 +1,11 @@
 - [Índice](README.md)
 - [Rutas](rutas.md)
-- Wiki
-    - [Listado](DARKSOULS.md)
+- [Wiki](DARKSOULS.md)
+- [Mod Selection](mods.md)
+- [Reglas](reglas.md)
+- PARTE 4
     - [Configuración](config.md)
     - [Bug Fixes](bugfixes.md)
-    - [Mod Selection](mods.md)
-    - [Reglas](reglas.md)
     - [Remastered](remastered.md)
     - [PTDE](ptde.md)
     - [Contacto](contacto.md)
