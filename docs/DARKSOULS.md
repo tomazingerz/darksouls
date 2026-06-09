@@ -122,7 +122,7 @@
   * Pre Kalameet \- [link](https://youtu.be/1pHyueh2Adw?feature=shared&t=15507)  
   * Oolacile \- [link](https://youtu.be/1pHyueh2Adw?feature=shared&t=16560)  
   * Painted World \- [link](https://youtu.be/1pHyueh2Adw?feature=shared&t=19341)  
-* **Guia Hallker** \- [tips](https://www.youtube.com/playlist?list=PLIXSxrNucsAKwYKbzThW_ubtZtEMagBZz) / [Any%](https://www.youtube.com/watch?v=rLJdjE1QZ50) / [link](https://www.youtube.com/watch?v=EYQRAFD26uE)  
+* **Guia Hallker** \- [tips](https://www.youtube.com/playlist?list=PLIXSxrNucsAKwYKbzThW_ubtZtEMagBZz) / [Any%](https://www.youtube.com/watch?v=rLJdjE1QZ50) / [ABDLC](https://www.youtube.com/watch?v=EYQRAFD26uE)  
 * **Guia Baryon** \- [link](https://youtu.be/PqxRkxUZQXI)  
 * **DS1 Runs** \- [link](https://www.youtube.com/playlist?list=PLk8A1d99XLte4NeP-wUkJYobFnrS_TOb0)  
 * **ABDLC Sorcery** \- [link](https://www.youtube.com/watch?v=nRYpnI36Axk&list=TLPQMjkwMTIwMjaL-Fh9Ozz8jg&index=5&pp=iAQBsAgC)  
