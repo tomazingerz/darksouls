@@ -1,5 +1,5 @@
 - [Contenidos](README.md)
-- [**RUTAS**](rutas.md)
+- [RUTAS](rutas.md)
 - PARTE 3
     - [Listado](DARKSOULS.md)
     - [Configuración](config.md)
