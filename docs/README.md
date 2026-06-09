@@ -4,6 +4,7 @@
 
 - [Rutas](rutas.md)
 - [Wiki](DARKSOULS.md)
+  - [Tools](https://tomazingerz.github.io/darksouls/#/DARKSOULS?id=tools)
 - [Mod Selection](mods.md)
 - [Reglas](reglas.md)
 - [Acceso al juego](remastered.md)
