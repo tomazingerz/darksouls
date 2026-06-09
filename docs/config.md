@@ -1,5 +1,7 @@
 # Troubleshooting
 
+> Antes de jugar, ajusta estos parámetros para mejorar tu experiencia.
+
 ## Configuración previa
 
 - **Salto en L3** \- Para tener el salto en un botón diferente al botón de correr
