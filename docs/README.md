@@ -3,12 +3,13 @@
 > Tómate tu tiempo en explorar toda la info de la web... ¡Hay mucho por ver! 
 
 <details>
-<summary>Rutas</summary>
- 
-* [Any%](rutas.md#ruta-any)
-* [Otras Runs](rutas.md#otras-runs)
-
+  <summary>Rutas</summary>
+  <ul>
+    <li><a href="#/rutas?id=ruta-any">Ruta Any%</a></li>
+    <li><a href="#/rutas?id=otras-runs">Otras Runs</a></li>
+  </ul>
 </details>
+
 <details>
 <summary>Wiki</summary>
  
@@ -34,38 +35,34 @@
 * [Extra](mods.md#extra)
 
 </details>
-<details>
-<summary>Reglas</summary>
- 
-* [General Rules](reglas.md#general-rules)
-* [Damageless Rules](reglas.md#damageless-rules)
-* [Hitless & Damageless Rules](reglas.md#hitless-amp-damageless-rules)
-* [Specific Rules for Dark Souls](reglas.md#specific-rules-for-dark-souls)
-* [Allowed Quitouts](reglas.md#allowed-quitouts)
-* [XY-Only Runs](reglas.md#xy-only-runs)
-* [Extra](reglas.md#extra)
 
+<details>
+  <summary>Reglas</summary>
+  <ul>
+    <li><a href="#/reglas?id=general-rules">General Rules</a></li>
+    <li><a href="#/reglas?id=damageless-rules">Damageless Rules</a></li>
+    <li><a href="#/reglas?id=hitless-amp-damageless-rules">Hitless & Damageless Rules</a></li>
+    <li><a href="#/reglas?id=specific-rules-for-dark-souls">Specific Rules for Dark Souls</a></li>
+    <li><a href="#/reglas?id=allowed-quitouts">Allowed Quitouts</a></li>
+    <li><a href="#/reglas?id=xy-only-runs">XY-Only Runs</a></li>
+    <li><a href="#/reglas?id=extra">Extra</a></li>   
+  </ul>
 </details>
-<details>
-<summary>Acceso al juego</summary>
- 
-* [Remastered](remastered.md#remastered)
-* [Prepare To Die Edition](remastered.md#prepare-to-die-edition)
 
+<details>
+  <summary>Acceso al juego</summary>
+  <ul>
+    <li><a href="#/remastered?id=remastered">Remastered</a></li>
+    <li><a href="#/remastered?id=prepare-to-die-edition">Prepare To Die Edition</a></li>
+  </ul>
 </details>
-<details>
-<summary>Troubleshooting</summary>
- 
-* [Configuración previa](config.md#configuración-previa)
-* [Notable Bugs and fixes](config.md#notable-bugs-and-fixes)
 
-</details>
 <details>
-<summary>Contacto</summary>
- 
-* [Sugerencias](contacto.md#sugerencias)
-* [RRSS](contacto.md#rrss)
-
+  <summary>Troubleshooting</summary>
+  <ul>
+    <li><a href="#/config?id=configuración-previa">Configuración previa</a></li>
+    <li><a href="#/config?id=notable-bugs-and-fixes">Notable Bugs and fixes</a></li>
+  </ul>
 </details>
 
 <details>
