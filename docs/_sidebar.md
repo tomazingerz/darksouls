@@ -1,5 +1,6 @@
 - [Contenidos](README.md)
 - [**RUTAS**](rutas.md)
+- PARTE 3
     - [Listado](DARKSOULS.md)
     - [Configuración](config.md)
     - [Bug Fixes](bugfixes.md)
@@ -10,7 +11,6 @@
     - [Contacto](contacto.md)
 - PARTE 2
     - [Contenidos](README.md)
-- PARTE 3
     - [Contenidos](README.md)
 - PARTE 4
     - [Contenidos](README.md)
