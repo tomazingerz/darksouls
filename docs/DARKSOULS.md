@@ -2,7 +2,7 @@
 Herramientas, Rutas, Trucos y Consejos
 
 ## Tools  
-> Recomendado para rutear/jugar
+> _Recomendado para rutear/jugar_
 
 * [**Save organizer**](https://github.com/Kahmul/SpeedSouls-Save-Organizer/releases) \- Organiza archivos de guardado / [Tutorial](https://www.youtube.com/watch?v=jL5eDgiyYXE)  
 * [**DSR Gadget**](https://github.com/Nordgaren/DSR-Gadget-Local-Loader/releases) \- No Death, TP, Spawn Item, etc / Incluye Modo Online Safe `Recomendado`  
@@ -19,7 +19,7 @@ Herramientas, Rutas, Trucos y Consejos
 * [**Acceso al juego**](remastered.md) \- Versión Remastered o PTDE  
 
 ## Strats  
-> Detalles de la Any%
+> _Detalles de la Any%_
 
 * [**Bombatruco**](https://www.youtube.com/watch?v=3lT8AN2Sdf4) \- Script de Gárgolas / [Version 2](https://www.youtube.com/watch?v=krU51U1PUfE)  
 * [**Lower Burg Skip**](https://www.youtube.com/watch?v=wLD0r97b7-U) \- Salto para liberar Griggs en Híbrida% / [Ruta](https://www.youtube.com/watch?v=buI7PkZ2EnQ)  
@@ -35,7 +35,7 @@ Herramientas, Rutas, Trucos y Consejos
 * **Comarca (1:25\~IGT)** \- Cambios a la ruta de Alabarda / [VOD](https://www.youtube.com/watch?v=nHr50aCoQM0) / [Cortes](https://www.youtube.com/watch?v=ldIhYqmhZQ4) / [AL](https://youtube.com/clip/Ugkxo-LU3mcwXPmZ43CogqOAVUfXtZqIj11L?si=2bK-BC7hM5ZklUZm)
 
 ## Data  
-> Información relevante para Any%
+> _Información relevante para Any%_
 
 * [**Vagrants**](https://youtu.be/Xqg6FeRe0I4) \- Recomendable jugar offline  
 * **How Enemies Detect You** \- [Sound](https://www.youtube.com/watch?v=mdL75pAvt8I) \- [Smell](https://www.youtube.com/watch?v=y4SUfS9ymBU)  
@@ -51,7 +51,7 @@ Herramientas, Rutas, Trucos y Consejos
 * [**Patrulla Fantasma**](https://youtube.com/clip/Ugkx6PFUqXfE1w_16TGSu7kWreSG6tbRdYzd) \- Fantasma en el agua de NL
 
 ## Bosses  
-> Peleas de la Any% en detalle
+> _Peleas de la Any% en detalle_
 
 * [**Iron Golem Stagger**](https://youtube.com/clip/UgkxMeUkHJb-bnlp6o9bM9ycERLPxLwZ48zh?si=akjuPt9XZU8ksHW4) \- Daño para que el Golem se caiga  
 * **O\&S** \- [Guia](https://www.youtube.com/watch?v=wWP0pmDuKEk) / [Eng](https://www.youtube.com/watch?v=LJwPrnpSScw) / [Doc](https://docs.google.com/document/d/1G1MgNlIpH_-zJ4dUKEM-KiI_cLFEiYCDu56fCjJXacY) / [Playlist](https://www.youtube.com/playlist?list=PLU311asF84ipC_myou_mQK_wwbOYOZck3)  
@@ -65,7 +65,7 @@ Herramientas, Rutas, Trucos y Consejos
 * [**Hitboxes Showcase**](https://www.youtube.com/playlist?list=PLC6oP5_CzIGVZ-ASFAYTCXMU1FkNIvY_5) \- Detalle de los ataques de jefes
 
 ## Cheese  
-> Estrategias alternativas para jefes / Jefes de All Bosses
+> _Estrategias alternativas para jefes / Jefes de All Bosses_
 
 * [**Ornstein Cheese**](https://www.youtube.com/watch?v=UVnBLLBVRVU) \- Script para O\&S  
 * [**Stray Cheese**](https://www.youtube.com/watch?v=j3d32DE0w-Q&t=8658s) \- Strat con pastel bosta  
@@ -84,7 +84,7 @@ Herramientas, Rutas, Trucos y Consejos
 * [**Gwyn Pyro**](https://youtu.be/TIp9v2Mdimg) \- Bucle con piromancia
 
 ## Extra  
-> Strats no necesarias para Any%
+> _Strats no necesarias para Any%_
 
 * [**Early Gold Pine Resin**](https://youtu.be/0sfTp2rLS28?feature=shared&t=185) \- Salto para pillar el item de forma alternativa  
 * [**LUB Ladder Skip**](https://www.youtube.com/playlist?list=PLF7OwrkclEjXlzVnKgiQXcskJWpSERi8e) \- Get to Griggs early as any starting class  
@@ -101,7 +101,7 @@ Herramientas, Rutas, Trucos y Consejos
 * [**Infinite Cat Ring Farm Pog**](https://youtu.be/nuiDXiXeqwg?si=0Axtb84lzC-0z9vw&t=1170) \- ¿not a glitch¿
 
 ## Clips  
-> Momentos raros, graciosos
+> _Momentos raros, graciosos_
 
 * **Bugazo CINE** \- [link](https://www.youtube.com/watch?v=BB0qa-8TT9o)  
 * **Por no ponerse la espada** \- [link](https://clips.twitch.tv/LaconicRepleteMosquitoFailFish-T0uTQS0bGaJubbtx)  
