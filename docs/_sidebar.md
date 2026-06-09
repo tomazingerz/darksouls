@@ -6,4 +6,3 @@
 - [Acceso al juego](remastered.md)
 - [Troubleshooting](config.md)
 - [Contacto](contacto.md)
-    - [Test2](test/test2.md)
