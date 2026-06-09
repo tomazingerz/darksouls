@@ -66,8 +66,8 @@ Herramientas, Rutas, Trucos y Consejos
 * **O\&S** \- [Guia](https://www.youtube.com/watch?v=wWP0pmDuKEk) / [Eng](https://www.youtube.com/watch?v=LJwPrnpSScw) / [Doc](https://docs.google.com/document/d/1G1MgNlIpH_-zJ4dUKEM-KiI_cLFEiYCDu56fCjJXacY) / [Playlist](https://www.youtube.com/playlist?list=PLU311asF84ipC_myou_mQK_wwbOYOZck3)  
 * **Sif** \- [Guia](https://www.youtube.com/watch?v=dsdSpd8Epe8)  
 * **4Kings** \- [Guia](https://www.youtube.com/watch?v=zVG1a5wN_JA) / [Spawns](https://pbs.twimg.com/media/GiszCGGXkAAsCce?format=jpg&name=large) / [Arena](https://www.youtube.com/watch?v=2IUXLDz23IU&t=4665s) / [itzCBD](https://www.youtube.com/watch?v=fcBaUc-my6A)  
-* [**Bed of Chaos**](https://www.youtube.com/watch?v=Kgvzbwo2rqo&t=12s) \- Setup para bombas / [Tutorial](https://youtu.be/CA8w730SnBE) / [AEIOU](https://www.twitch.tv/aeiousot/clip/FlirtyBlitheGrouseDancingBanana-Ep00HRWZEGV_tgww%20) / [Tokhi](https://clips.twitch.tv/SavageHeadstrongPuffinUWot-VBxToiP4isNQVs4Y)  
-* [**Bed of Chaos version 2**](https://www.youtube.com/watch?v=PYA5qO6_iZM) \- Lecho del Caos safe  
+* [**Bed of Chaos v1**](https://www.youtube.com/watch?v=Kgvzbwo2rqo&t=12s) \- Setup para bombas / [Tutorial](https://youtu.be/CA8w730SnBE) / [AEIOU](https://www.twitch.tv/aeiousot/clip/FlirtyBlitheGrouseDancingBanana-Ep00HRWZEGV_tgww) / [Tokhi](https://clips.twitch.tv/SavageHeadstrongPuffinUWot-VBxToiP4isNQVs4Y)  
+* [**Bed of Chaos v2**](https://www.youtube.com/watch?v=PYA5qO6_iZM) \- Lecho del Caos safe  
 * **Seath** \- [Guia](https://youtu.be/ic7fxKvIJJo?si=fuVfo9SfBRESR3Ti&t=42)  
 * **Gwyn** \- [Guia1](https://www.youtube.com/watch?v=d2RoiJcKKnw) / [Guia2](https://www.youtube.com/watch?v=K5SK0NInces) / [RNGs](https://www.youtube.com/watch?v=u2ooK3rmsMA&feature=youtu.be)  
 * **Master Run Bosses** \- Playlist de bosses debufados / [1](https://www.youtube.com/playlist?list=PLU311asF84iperg23UKCcavMO_-K_Evww) / [2](https://www.youtube.com/playlist?list=PLU311asF84irsGwsnWQnbEuRXSR7UqptW) / [3](https://www.youtube.com/playlist?list=PLU311asF84ir1xLYgvHA-ZccEDRnFJPcP)  
