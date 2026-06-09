@@ -18,6 +18,6 @@
 <details>
 <summary>🏴‍☠️ Acceso al juego</summary>
 
-Contenido aquí...
+- Contenido aquí...
 
 </details>
