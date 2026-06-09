@@ -9,14 +9,14 @@
 </details>
 <details>
 <summary>Wiki</summary>
- - [Tools!](#/DARKSOULS#tools)
- - [Strats](DARKSOULS.md#strats)
- - [Data](DARKSOULS.md#data)
- - [Bosses](DARKSOULS.md#bosses)
- - [Cheese](DARKSOULS.md#cheese)
- - [Extra](DARKSOULS.md#extra)
- - [Clips](DARKSOULS.md#clips)
- - [WIP](DARKSOULS.md#wip)
+ - [Tools!](DARKSOULS.md?id=tools)
+ - [Strats](DARKSOULS.md?id=strats)
+ - [Data](DARKSOULS.md?id=data)
+ - [Bosses](DARKSOULS.md?id=bosses)
+ - [Cheese](DARKSOULS.md?id=cheese)
+ - [Extra](DARKSOULS.md?id=extra)
+ - [Clips](DARKSOULS.md?id=clips)
+ - [WIP](DARKSOULS.md?id=wip)
 </details>
 <details>
 <summary>Mod Selection</summary>
