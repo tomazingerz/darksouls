@@ -1,7 +1,7 @@
 # RUTAS
 
 ## Ruta Any%  
-Elige una 
+¡Empieza aquí! Elige una 
 > _¡Aprende en detalle una de estas rutas y ganarás mucha consistencia!_
 
 * **[ALABARDA](https://docs.google.com/document/d/1gV3G0cJ4vSRABKdRS41N4-7XiPVfUxKBx54EgeE0Kh4/edit?tab=t.0)** \- 1:15\~IGT / [link](http://youtu.be/gDCmB3NTChA) / [2](https://www.youtube.com/watch?v=bbfLjgING-o)  
