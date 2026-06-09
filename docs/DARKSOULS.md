@@ -16,11 +16,10 @@ Herramientas, Rutas, Trucos y Consejos
 * [**Hit Tracker**](https://github.com/valkyaha/HitTracker-Release/releases) \- OBS integration, autosplitter support, and multi-run tracking. **Alternativa**  
 * [**Wiki**](http://darksouls.wikidot.com/) \- Info de Items, Clases, Armas, NPC, etc  
 * [**Character planner**](https://www.mugenmonkey.com/darksouls) \- Calcula tu build  
-* [**Bug fixes**](bugfixes.md) \- QOL Details  
+* [**Bug fixes**](config.md) \- QOL Details  
 * [**Mod Selection**](mods.md) \- Edits visuales y QOL  
 * **Reglas** \- [TeamHitless](https://www.teamhitless.com/games/fromsoftware-games/dark-souls/) / [backup](reglas.md)  
-* [**Remastered**](remastered.md) \- Puedes jugar el último parche  
-* [**PTDE**](ptde.md) \- Puedes jugar la version original 
+* [**Acceso al juego**](remastered.md) \- Versión Remastered o PTDE  
 
 ---
 
