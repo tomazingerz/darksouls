@@ -17,8 +17,6 @@
 * **Reglas** \- [TeamHitless](https://www.teamhitless.com/games/fromsoftware-games/dark-souls/) / [backup](reglas.md)  
 * [**Acceso al juego**](remastered.md) \- Versión Remastered o PTDE  
 
----
-
 ## Strats  
 > Detalles de la Any%
 
@@ -34,8 +32,6 @@
 * [**Duke Skip Arrow Cancel**](https://www.youtube.com/watch?v=GOyJLHrv7Ks) \- Skips de archivos con arrow cancel  
 * [**RTSR Setups**](https://www.youtube.com/playlist?list=PLk8A1d99XLtfHWvFV8zm8xyguDzPKteyS) \- Saltos para activar anillo RTSR / [Cuenca](https://www.twitch.tv/orkallenzar/clip/EnchantingTenuousTofuBigBrother-__kqcFIx_GEFNs7Y)  
 * **Comarca (1:25\~IGT)** \- Cambios a la ruta de Alabarda / [VOD](https://www.youtube.com/watch?v=nHr50aCoQM0) / [Cortes](https://www.youtube.com/watch?v=ldIhYqmhZQ4) / [AL](https://youtube.com/clip/Ugkxo-LU3mcwXPmZ43CogqOAVUfXtZqIj11L?si=2bK-BC7hM5ZklUZm)
-
----
 
 ## Data  
 > Información relevante para Any%
@@ -53,8 +49,6 @@
 * [**Patches dialogue**](https://pbs.twimg.com/media/Gm5G1TDWkAAjspg?format=jpg&name=large) \- Consigue las humanidades de regalo  
 * [**Patrulla Fantasma**](https://youtube.com/clip/Ugkx6PFUqXfE1w_16TGSu7kWreSG6tbRdYzd) \- Fantasma en el agua de NL
 
----
-
 ## Bosses  
 > Peleas de la Any% en detalle
 
@@ -68,8 +62,6 @@
 * **Gwyn** \- [Guia](https://www.youtube.com/watch?v=d2RoiJcKKnw) / [RNGs](https://www.youtube.com/watch?v=u2ooK3rmsMA&feature=youtu.be)  
 * **Master Run Bosses** \- Playlist de bosses debufados / [1](https://www.youtube.com/playlist?list=PLU311asF84iperg23UKCcavMO_-K_Evww) / [2](https://www.youtube.com/playlist?list=PLU311asF84irsGwsnWQnbEuRXSR7UqptW) / [3](https://www.youtube.com/playlist?list=PLU311asF84ir1xLYgvHA-ZccEDRnFJPcP)  
 * [**Hitboxes Showcase**](https://www.youtube.com/playlist?list=PLC6oP5_CzIGVZ-ASFAYTCXMU1FkNIvY_5) \- Detalle de los ataques de jefes
-
----
 
 ## Cheese  
 > Estrategias alternativas para jefes / Jefes de All Bosses
@@ -90,8 +82,6 @@
 * **Goughless Kalameet** \- Pelea en el primer encuentro / [Guia1](https://thehitless.com/vod/66d0c696b9525065093b94ee/0/) / [Guia2](https://www.youtube.com/watch?v=LVs_zw351HY)  
 * [**Gwyn Pyro**](https://youtu.be/TIp9v2Mdimg) \- Bucle con piromancia
 
----
-
 ## Extra  
 > Strats no necesarias para Any%
 
@@ -109,8 +99,6 @@
 * [**Infinite Soft Humanity Farm**](https://www.youtube.com/clip/Ugkx7PqhR0PJwi69Gdr8TFsCSS4MkdRQKPfI) \- Only if you don’t do Duke Skip  
 * [**Infinite Cat Ring Farm Pog**](https://youtu.be/nuiDXiXeqwg?si=0Axtb84lzC-0z9vw&t=1170) \- ¿not a glitch¿
 
----
-
 ## Clips  
 > Momentos raros, graciosos
 
@@ -126,8 +114,6 @@
 * **Bprprprpr** \- [link](https://www.youtube.com/watch?v=NonKvPNr_UA&t=13s)  
 * **Fume Stagger** \- [link](https://www.twitch.tv/franz_von_karma/clip/ImpossibleLazyEmuBloodTrail-LYkRKv6kqIfc_oqF)  
 * **Gwyn Stagger** \- [link](https://clips.twitch.tv/EnticingConfidentLEDDoritosChip-6B5K0S53nAHnWw3p)
-
----
 
 ## WIP
 
