@@ -1,4 +1,7 @@
 # REGLAS DS1
+
+> Normas y pautas acordadas por la comunidad. 
+
 ## General Rules
 - A Hit is defined by a loss of health and/or stagger caused by an enemy.
 - Hits from player triggered traps count, environmental damage does not (Static features as lava, water, swamp, spikes, campfires are fine).
