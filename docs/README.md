@@ -1,11 +1,9 @@
 # Indice
 
-- [Contenidos](README.md)
-- [Listado](DARKSOULS.md)
-- [Configuración](config.md)
-- [Bug Fixes](bugfixes.md)
+- [Rutas](rutas.md)
+- [Wiki](DARKSOULS.md)
 - [Mod Selection](mods.md)
 - [Reglas](reglas.md)
-- [Remastered](remastered.md)
-- [PTDE](ptde.md)
+- [Acceso al juego](remastered.md)
+- [Troubleshooting](config.md)
 - [Contacto](contacto.md)
