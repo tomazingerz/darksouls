@@ -1,5 +1,5 @@
    
-# [**DARK SOULS MODS**](https://docs.google.com/document/d/1ByrSqoUyxEISsz-uZTRUDpmlJY10_m2VDxxeiZt5pAE) <small>by tomazingerz</small>   
+# MODS SELECTION   
 Selección de mods para tu partida
 
 ## Tools  
@@ -8,26 +8,18 @@ Selección de mods para tu partida
 - [**Appearance Preset Tool**](https://www.nexusmods.com/darksoulsremastered/mods/713) \- Exporting and importing character appearance data
 - [**SoulMerge**](https://www.nexusmods.com/darksoulsremastered/mods/1155) \- GUI utility that merges gameparam files
 
----
-
 ## Shield  
 > Modifica la textura del Escudo Emblema de Hierba  
 - [**Custom Shield (DXT1)**](https://www.nexusmods.com/darksoulsremastered/mods/343) \- Project Files for making custom shield textures / [Tutorial](https://youtu.be/5u_pIC9U_OE)  
-
----
 
 ## Online  
 > Juega con amigos  
 - [**Seamless Co-op**](https://www.nexusmods.com/darksoulsremastered/mods/899%20) \- Overhaul to the co-operative aspect of Dark Souls' multiplayer
 
----
-
 ## Fixes  
 > Arreglos de bugs  
 - [**Anor Londo Spawn Fix**](https://www.nexusmods.com/darksoulsremastered/mods/156) \- Fix spawnpoint after dying in Dark Anor Londo
 - [**Ariamis Moan% Fix**](https://www.nexusmods.com/darksoulsremastered/mods/274) \- One-shotting Priscilla no longer softlocks your game
-
----
 
 ## Visual  
 > Que bonito queda el juego  
@@ -54,13 +46,9 @@ Selección de mods para tu partida
 - [**PTDE Bonfire**](https://www.patreon.com/posts/ptde-bonfire-mod-135563882) \- Restores the PTDE bonfire in DSR with mod compatible installer.  
 	If you have other mods you would like to use, install them before this one\!
 
----
-
 ## Retexturizado  
 > Que relindo queda el juego  
 - [**Re-Remastered**](https://www.nexusmods.com/darksoulsremastered/mods/642) \- Textures AI upscaled and ported from PTDE
-
----
 
 ## Extra 
 > Merece la pena probarlos  
