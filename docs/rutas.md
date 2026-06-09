@@ -4,7 +4,7 @@
 ¡Empieza aquí! Elige una 
 > _¡Aprende en detalle una de estas rutas y ganarás mucha consistencia!_
 
-### [Alabarda](01.md) \- 1:15\~IGT
+### [Alabarda](01.md) \- `1:15~IGT`
 
 * **[ALABARDA](https://docs.google.com/document/d/1gV3G0cJ4vSRABKdRS41N4-7XiPVfUxKBx54EgeE0Kh4/edit?tab=t.0)** \- 1:15\~IGT / [link](http://youtu.be/gDCmB3NTChA) / [2](https://www.youtube.com/watch?v=bbfLjgING-o)  
 * **[HYBRID](https://docs.google.com/document/d/1eSmbqp6roVuGBaYUIpvTQv8yKXBDgPk_7Zam8jYk9CU/edit?tab=t.0)** \- 1:30\~IGT / [link](https://youtu.be/xSr-oieVmjw)  
