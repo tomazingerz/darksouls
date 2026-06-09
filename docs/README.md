@@ -74,4 +74,4 @@
   </ul>
 </details>
 
-https://cdn.7tv.app/emote/01G891CMJ80003NSZ1HDHK6F7Y/4x.webp
+![Texto alternativo](https://cdn.7tv.app/emote/01G891CMJ80003NSZ1HDHK6F7Y/4x.webp)
