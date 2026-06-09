@@ -1,9 +1,9 @@
 # Indice
 
-> Tómate tu tiempo en explorar toda la info de la web... ¡Hay mucho por ver! 
+> Tómate tu tiempo para explorar toda la info de la web... ¡Hay mucho por ver! 
 
 <details>
-  <summary>**Rutas**</summary>
+  <summary>Rutas</summary>
   <ul>
     <li><a href="#/rutas?id=ruta-any">Ruta Any%</a></li>
     <li><a href="#/rutas?id=otras-runs">Otras Runs</a></li>
@@ -11,29 +11,30 @@
 </details>
 
 <details>
-<summary>Wiki</summary>
- 
-* [Tools!](DARKSOULS.md?id=tools)
-* [Strats](DARKSOULS.md?id=strats)
-* [Data](DARKSOULS.md?id=data)
-* [Bosses](DARKSOULS.md?id=bosses)
-* [Cheese](DARKSOULS.md?id=cheese)
-* [Extra](DARKSOULS.md?id=extra)
-* [Clips](DARKSOULS.md?id=clips)
-* [WIP](DARKSOULS.md?id=wip)
-
+  <summary>Wiki</summary>
+  <ul>
+    <li><a href="#/DARKSOULS?id=tools">Tools</a></li>
+    <li><a href="#/DARKSOULS?id=strats">Strats</a></li>
+    <li><a href="#/DARKSOULS?id=data">Data</a></li>
+    <li><a href="#/DARKSOULS?id=bosses">Bosses</a></li>
+    <li><a href="#/DARKSOULS?id=cheese">Cheese</a></li>
+    <li><a href="#/DARKSOULS?id=extra">Extra</a></li>
+    <li><a href="#/DARKSOULS?id=clips">Clips</a></li>
+    <li><a href="#/DARKSOULS?id=wip">WIP</a></li>
+  </ul>
 </details>
-<details>
-<summary>Mod Selection</summary>
- 
-* [Tools](mods.md#tools)
-* [Shield](mods.md#shield)
-* [Online](mods.md#online)
-* [Fixes](mods.md#fixes)
-* [Visual](mods.md#visual)
-* [Retexturizado](mods.md#retexturizado)
-* [Extra](mods.md#extra)
 
+<details>
+  <summary>Mod Selection</summary>
+  <ul>
+    <li><a href="#/mods?id=tools">Tools</a></li>
+    <li><a href="#/mods?id=shield">Shield</a></li>
+    <li><a href="#/mods?id=online">Online</a></li>
+    <li><a href="#/mods?id=fixes">Fixes</a></li>
+    <li><a href="#/mods?id=visual">Visual</a></li>
+    <li><a href="#/mods?id=retexturizado">Retexturizado</a></li>
+    <li><a href="#/mods?id=extra">Extra</a></li>
+  </ul>
 </details>
 
 <details>
