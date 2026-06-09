@@ -86,7 +86,7 @@
 
   <a href="https://x.com/tomazinger_z" target="_blank" class="card-contacto">
     <img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" alt="Twitter">
-    <h3>Twitter / X</h3>
+    <h3>Twitter</h3>
   </a>
 
   <a href="https://www.tiktok.com/@tomazingerz" target="_blank" class="card-contacto">
