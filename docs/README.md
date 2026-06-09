@@ -2,10 +2,13 @@
 
 > Tómate tu tiempo en explorar toda la info de la web... ¡Hay mucho por ver! 
 
-- [Rutas](rutas.md)
+<details>
+<summary>Rutas</summary>
   - [Any%](rutas.md#ruta-any)
   - [Otras Runs](rutas.md#otras-runs)
-- [Wiki](DARKSOULS.md)
+</details>
+<details>
+<summary>Wiki</summary>
   - [Tools](DARKSOULS.md#tools)
   - [Strats](DARKSOULS.md#strats)
   - [Data](DARKSOULS.md#data)
@@ -14,7 +17,9 @@
   - [Extra](DARKSOULS.md#extra)
   - [Clips](DARKSOULS.md#clips)
   - [WIP](DARKSOULS.md#wip)
-- [Mod Selection](mods.md)
+</details>
+<details>
+<summary>Mod Selection</summary>
   - [Tools](mods.md#tools)
   - [Shield](mods.md#shield)
   - [Online](mods.md#online)
@@ -22,7 +27,9 @@
   - [Visual](mods.md#visual)
   - [Retexturizado](mods.md#retexturizado)
   - [Extra](mods.md#extra)
-- [Reglas](reglas.md)
+</details>
+<details>
+<summary>Reglas</summary>
   - [General Rules](reglas.md#general-rules)
   - [Damageless Rules](reglas.md#damageless-rules)
   - [Hitless & Damageless Rules](reglas.md#hitless-amp-damageless-rules)
@@ -30,12 +37,19 @@
   - [Allowed Quitouts](reglas.md#allowed-quitouts)
   - [XY-Only Runs](reglas.md#xy-only-runs)
   - [Extra](reglas.md#extra)
-- [Acceso al juego](remastered.md)
+</details>
+<details>
+<summary>Acceso al juego</summary>
   - [Remastered](remastered.md#remastered)
   - [Prepare To Die Edition](remastered.md#prepare-to-die-edition)
-- [Troubleshooting](config.md)
+</details>
+<details>
+<summary>Troubleshooting</summary>
   - [Configuración previa](config.md#configuración-previa)
   - [Notable Bugs and fixes](config.md#notable-bugs-and-fixes)
-- [Contacto](contacto.md)
+</details>
+<details>
+<summary>Contacto</summary>
   - [Sugerencias](contacto.md#sugerencias)
   - [RRSS](contacto.md#rrss)
+</details>
