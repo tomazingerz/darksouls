@@ -5,7 +5,7 @@ Herramientas, Rutas, Trucos y Consejos
 ---
 
 ## Tools  
-Recomendado para rutear/jugar
+> Recomendado para rutear/jugar
 
 * [**Save organizer**](https://github.com/Kahmul/SpeedSouls-Save-Organizer/releases) \- Organiza archivos de guardado / [Tutorial](https://www.youtube.com/watch?v=jL5eDgiyYXE)  
 * [**DSR Gadget**](https://github.com/Nordgaren/DSR-Gadget-Local-Loader/releases) \- No Death, TP, Spawn Item, etc / Incluye Modo Online Safe **Recomendado**  
@@ -25,7 +25,7 @@ Recomendado para rutear/jugar
 ---
 
 ## Strats  
-Detalles de la Any%
+> Detalles de la Any%
 
 * [**Bombatruco**](https://www.youtube.com/watch?v=3lT8AN2Sdf4) \- Script de Gárgolas / [Version 2](https://www.youtube.com/watch?v=krU51U1PUfE)  
 * [**Lower Burg Skip**](https://www.youtube.com/watch?v=wLD0r97b7-U) \- Salto para liberar Griggs en Híbrida% / [Ruta](https://www.youtube.com/watch?v=buI7PkZ2EnQ)  
@@ -43,7 +43,7 @@ Detalles de la Any%
 ---
 
 ## Data  
-Información relevante para Any%
+> Información relevante para Any%
 
 * [**Vagrants**](https://youtu.be/Xqg6FeRe0I4) \- Recomendable jugar offline  
 * **How Enemies Detect You** \- [Sound](https://www.youtube.com/watch?v=mdL75pAvt8I) \- [Smell](https://www.youtube.com/watch?v=y4SUfS9ymBU)  
@@ -61,7 +61,7 @@ Información relevante para Any%
 ---
 
 ## Bosses  
-Peleas de la Any% en detalle
+> Peleas de la Any% en detalle
 
 * [**Iron Golem Stagger**](https://youtube.com/clip/UgkxMeUkHJb-bnlp6o9bM9ycERLPxLwZ48zh?si=akjuPt9XZU8ksHW4) \- Daño para que el Golem se caiga  
 * **O\&S** \- [Guia](https://www.youtube.com/watch?v=wWP0pmDuKEk) / [Eng](https://www.youtube.com/watch?v=LJwPrnpSScw) / [Doc](https://docs.google.com/document/d/1G1MgNlIpH_-zJ4dUKEM-KiI_cLFEiYCDu56fCjJXacY) / [Playlist](https://www.youtube.com/playlist?list=PLU311asF84ipC_myou_mQK_wwbOYOZck3)  
@@ -77,7 +77,7 @@ Peleas de la Any% en detalle
 ---
 
 ## Cheese  
-Estrategias alternativas para jefes / Jefes de All Bosses
+> Estrategias alternativas para jefes / Jefes de All Bosses
 
 * [**Ornstein Cheese**](https://www.youtube.com/watch?v=UVnBLLBVRVU) \- Script para O\&S  
 * [**Stray Cheese**](https://www.youtube.com/watch?v=j3d32DE0w-Q&t=8658s) \- Strat con pastel bosta  
@@ -98,7 +98,7 @@ Estrategias alternativas para jefes / Jefes de All Bosses
 ---
 
 ## Extra  
-Strats no necesarias para Any%
+> Strats no necesarias para Any%
 
 * [**Early Gold Pine Resin**](https://youtu.be/0sfTp2rLS28?feature=shared&t=185) \- Salto para pillar el item de forma alternativa  
 * [**LUB Ladder Skip**](https://www.youtube.com/playlist?list=PLF7OwrkclEjXlzVnKgiQXcskJWpSERi8e) \- Get to Griggs early as any starting class  
@@ -117,7 +117,7 @@ Strats no necesarias para Any%
 ---
 
 ## Clips  
-Momentos raros, graciosos
+> Momentos raros, graciosos
 
 * **Bugazo CINE** \- [link](https://www.youtube.com/watch?v=BB0qa-8TT9o)  
 * **Por no ponerse la espada** \- [link](https://clips.twitch.tv/LaconicRepleteMosquitoFailFish-T0uTQS0bGaJubbtx)  
