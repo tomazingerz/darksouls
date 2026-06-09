@@ -6,9 +6,7 @@ _¡Empieza aquí! Elige una_
 
 - ### [Alabarda](01.md)<span class="ocultar-sidebar"> — `1:15~IGT`</span>
 - ### [Hybrid](02.md)<span class="ocultar-sidebar"> — `1:30~IGT`</span>
-
-* **[HYBRID](https://docs.google.com/document/d/1eSmbqp6roVuGBaYUIpvTQv8yKXBDgPk_7Zam8jYk9CU/edit?tab=t.0)** \- 1:30\~IGT / [link](https://youtu.be/xSr-oieVmjw)  
-* **[BKH](https://docs.google.com/document/d/1xIT5qnG2yEQcU7gVAS2WhBhtHeVMF5pbnYvX-gNo9kE/edit?usp=sharing)** \- 1:30\~IGT / [link](https://www.youtube.com/watch?v=N3WZjRmt-UI)
+- ### [BKH](03.md)<span class="ocultar-sidebar"> — `1:30~IGT`</span>
 
 ## Otras Runs
 
