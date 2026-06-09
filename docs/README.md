@@ -13,6 +13,7 @@
   - [Clips](DARKSOULS.md#clips)
   - [WIP](DARKSOULS.md#wip)
 - [Mod Selection](mods.md)
+  - [Tools](mods.md#tools)
 - [Reglas](reglas.md)
 - [Acceso al juego](remastered.md)
 - [Troubleshooting](config.md)
