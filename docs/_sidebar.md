@@ -1,6 +1,5 @@
 - [Índice](README.md)
 - [Rutas](rutas.md)
-  - [Alabarda](01.md)
 - [Wiki](DARKSOULS.md)
 - [Mod Selection](mods.md)
 - [Reglas](reglas.md)
