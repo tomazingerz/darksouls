@@ -1,6 +1,6 @@
 - [Índice](README.md)
 - [Rutas](rutas.md)
-- PARTE 3
+- Wiki
     - [Listado](DARKSOULS.md)
     - [Configuración](config.md)
     - [Bug Fixes](bugfixes.md)
