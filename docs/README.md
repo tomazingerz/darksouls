@@ -1,6 +1,6 @@
 # Indice
 
-> Tómate tu tiempo para explorar toda la info de la web... ¡Hay mucho por ver! 
+> _Tómate tu tiempo para explorar toda la info de la web... ¡Hay mucho por ver!_
 
 <details>
   <summary>Rutas</summary>
