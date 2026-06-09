@@ -50,10 +50,7 @@ Selección de mods para tu partida
 - [**Custom Ariamis Painting**](https://www.nexusmods.com/darksoulsremastered/mods/435) \- Change the Anor Londo' Ariamis painting
 - [**Rest Emote**](https://www.nexusmods.com/darksoulsremastered/mods/353) \- Replace the Prayer gesture with the Rest gesture
 - [**Vine Parry SFX**](https://www.nexusmods.com/darksoulsremastered/mods/378) \- Replace the sound effect when you successfully parry
-- [**DemonDumper**](https://www.nexusmods.com/darksoulsremastered/mods/1051) \- Replace the Loading Icon with Twerking Asylum Demon 
-
-###
-
+- [**DemonDumper**](https://www.nexusmods.com/darksoulsremastered/mods/1051) \- Replace the Loading Icon with Twerking Asylum Demon
 - [**PTDE Bonfire**](https://www.patreon.com/posts/ptde-bonfire-mod-135563882) \- Restores the PTDE bonfire in DSR with mod compatible installer.  
 	If you have other mods you would like to use, install them before this one\!
 
