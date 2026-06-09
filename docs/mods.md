@@ -10,7 +10,7 @@ Selección de mods para tu partida
 
 ## Shield  
 > Modifica la textura del Escudo Emblema de Hierba  
-- [**Custom Shield (DXT1)**](https://www.nexusmods.com/darksoulsremastered/mods/343) \- Project Files for making custom shield textures / [Tutorial](https://youtu.be/5u_pIC9U_OE)  
+- [**Custom Shield (DXT1)**](https://www.nexusmods.com/darksoulsremastered/mods/343) \- Project Files for making custom shield textures / [Tutorial](https://youtu.be/5u_pIC9U_OE)  / [Parts IDs](https://gist.github.com/Meowmaritus/50311377844f79fb00aab9a8d9bf0d37)
 
 ## Online  
 > Juega con amigos  
