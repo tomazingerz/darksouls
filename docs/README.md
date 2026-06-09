@@ -73,3 +73,5 @@
     <li><a href="#/contacto?id=rrss">RRSS</a></li>
   </ul>
 </details>
+
+https://cdn.7tv.app/emote/01G891CMJ80003NSZ1HDHK6F7Y/4x.webp
