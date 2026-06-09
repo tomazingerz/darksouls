@@ -4,7 +4,5 @@
 - [Mod Selection](mods.md)
 - [Reglas](reglas.md)
 - [Acceso al juego](remastered.md)
+- [Troubleshooting](config.md)
 - [Contacto](contacto.md)
-- PARTE 4
-    - [Configuración](config.md)
-    - [Bug Fixes](bugfixes.md)
