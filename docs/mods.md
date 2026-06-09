@@ -14,7 +14,7 @@ Selección de mods para tu partida
 
 ## Online  
 > Juega con amigos  
-- [**Seamless Co-op**](https://www.nexusmods.com/darksoulsremastered/mods/899%20) \- Overhaul to the co-operative aspect of Dark Souls' multiplayer
+- [**Seamless Co-op**](https://www.nexusmods.com/darksoulsremastered/mods/899) \- Overhaul to the co-operative aspect of Dark Souls' multiplayer
 
 ## Fixes  
 > Arreglos de bugs  
@@ -32,12 +32,12 @@ Selección de mods para tu partida
 - [**PS3 icons**](https://www.nexusmods.com/darksoulsremastered/mods/326) \- Replaces the Xbox icons for Playstation 3 icons
 - [**Scabbardless Weapons**](https://www.nexusmods.com/darksoulsremastered/mods/198) \- Remove the scabbard from any sword
 - [**Lucerne Visual Fix**](https://www.nexusmods.com/darksoulsremastered/mods/243) \- Lucerne with the hammer facing down
-- [**Zone title**](https://www.nexusmods.com/darksoulsremastered/mods/53%20) \- Overhaul the Area Names to be more epic
+- [**Zone title**](https://www.nexusmods.com/darksoulsremastered/mods/53) \- Overhaul the Area Names to be more epic
 - [**You Tried**](https://www.nexusmods.com/darksoulsremastered/mods/370) \- Makes yourself feel better when you play Dark Souls
 - [**Fortnite dance**](https://www.nexusmods.com/darksoulsremastered/mods/163) \- Replace the bow gesture with the default dance from Fortnite
 - [**Gangnam Style**](https://www.nexusmods.com/darksoulsremastered/mods/907) \- Replace the wave gesture with Gangnam Style
-- [**Bucket head**](https://www.nexusmods.com/darksoulsremastered/mods/392%20) \- Replace the sack model with a bucket
-- [**Fast andre**](https://www.nexusmods.com/darksoulsremastered/mods/261%20) \- Change Andre's speed to be either 100 times or 0.1 times
+- [**Bucket head**](https://www.nexusmods.com/darksoulsremastered/mods/392) \- Replace the sack model with a bucket
+- [**Fast andre**](https://www.nexusmods.com/darksoulsremastered/mods/261) \- Change Andre's speed to be either 100 times or 0.1 times
 - [**Miyazaki Dragon Torso**](https://www.nexusmods.com/darksoulsremastered/mods/440) \- Replace Dragon Torso with Miyazali
 - [**Custom Ariamis Painting**](https://www.nexusmods.com/darksoulsremastered/mods/435) \- Change the Anor Londo' Ariamis painting
 - [**Rest Emote**](https://www.nexusmods.com/darksoulsremastered/mods/353) \- Replace the Prayer gesture with the Rest gesture
