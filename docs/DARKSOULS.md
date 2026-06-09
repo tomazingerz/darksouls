@@ -79,7 +79,7 @@
 * **Mariposa** \- [Sorceries](https://www.youtube.com/watch?v=BhZn_wHReHo&t=10802s) / [Pyromancies](https://youtu.be/doxgDQTvwgY?si=qFxQg_ZYfMCqqCWA&t=10935)  
 * **Centipede** \- [Guia](https://www.youtube.com/watch?v=7nf5JfGmsBY)  
 * [**Rangeless BoC**](https://youtu.be/GhfAWBkT9KA) \- Lecho del Caos sin bombas  
-* **Goughless Kalameet** \- Pelea en el primer encuentro / [Guia1](https://thehitless.com/vod/66d0c696b9525065093b94ee/0/) / [Guia2](https://www.youtube.com/watch?v=LVs_zw351HY)  
+* **Goughless Kalameet** \- Pelea en el primer encuentro / [Esp](https://www.youtube.com/watch?v=OUcgYjWQfqY) / [Eng](https://www.youtube.com/watch?v=LVs_zw351HY)  
 * [**Gwyn Pyro**](https://youtu.be/TIp9v2Mdimg) \- Bucle con piromancia
 
 ## Extra  
