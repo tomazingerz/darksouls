@@ -10,57 +10,51 @@
 <style>
   .grid-contacto {
     display: grid;
-    grid-template-columns: repeat(4, 1fr); /* Fuerza las 4 columnas exactas */
-    gap: 20px;
-    margin-top: 30px;
+    grid-template-columns: repeat(4, 1fr); /* Mantiene las 4 columnas */
+    gap: 12px; /* Espacio más cerrado entre tarjetas */
+    margin-top: 20px;
   }
   
   .card-contacto {
     background-color: #252525;
     border: 1px solid #3a3a3a;
-    border-radius: 12px;
-    padding: 25px 15px;
+    border-radius: 8px; /* Bordes un poco más finos para encajar con el tamaño */
+    padding: 12px 10px; /* Tarjetas mucho más bajas y compactas */
     text-align: center;
     text-decoration: none !important;
-    transition: all 0.3s ease;
+    transition: all 0.25s ease;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
   }
   
-  /* Efecto al pasar el ratón */
+  /* Efecto al pasar el ratón más suave */
   .card-contacto:hover {
-    transform: translateY(-8px);
-    border-color: #666;
-    box-shadow: 0 10px 20px rgba(0,0,0,0.4);
+    transform: translateY(-4px);
+    border-color: #555;
+    box-shadow: 0 6px 12px rgba(0,0,0,0.4);
   }
   
   .card-contacto img {
-    width: 50px;
-    height: 50px;
+    width: 32px; /* Iconos más pequeños y sutiles */
+    height: 32px;
     object-fit: contain;
-    margin-bottom: 15px;
+    margin-bottom: 8px; /* Menos separación con el texto */
   }
   
   .card-contacto h3 {
-    margin: 0 0 5px 0 !important;
-    font-size: 1.2em;
+    margin: 0 !important;
+    font-size: 0.95em; /* Fuente reajustada para mantener la proporción */
     color: #ffffff !important;
-    border: none !important; /* Quita la línea de Docsify */
-  }
-  
-  .card-contacto p {
-    margin: 0;
-    font-size: 0.85em;
-    color: #a0a0a0;
-    line-height: 1.2;
+    border: none !important;
   }
 
   /* Adaptación automática para pantallas medianas (tablets) */
   @media (max-width: 900px) {
     .grid-contacto {
       grid-template-columns: repeat(2, 1fr);
+      gap: 10px;
     }
   }
 
