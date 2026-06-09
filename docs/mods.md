@@ -5,7 +5,7 @@ Selección de mods para tu partida
 ## Tools  
 > Herramientas  
 - [**Texture Packer Unpacker**](https://www.nexusmods.com/darksoulsremastered/mods/9) \- Unpack game's textures and replace them / [Tutorial](https://www.youtube.com/watch?v=D7zEDHe-Acw)
-- [**Appearance Preset Tool**](https://www.nexusmods.com/darksoulsremastered/mods/713%20) \- Exporting and importing character appearance data
+- [**Appearance Preset Tool**](https://www.nexusmods.com/darksoulsremastered/mods/713) \- Exporting and importing character appearance data
 - [**SoulMerge**](https://www.nexusmods.com/darksoulsremastered/mods/1155) \- GUI utility that merges gameparam files
 
 ---
