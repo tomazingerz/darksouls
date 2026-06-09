@@ -69,7 +69,7 @@ Herramientas, Rutas, Trucos y Consejos
 * [**Bed of Chaos v1**](https://www.youtube.com/watch?v=Kgvzbwo2rqo&t=12s) \- Setup para bombas / [Tutorial](https://youtu.be/CA8w730SnBE) / [AEIOU](https://www.twitch.tv/aeiousot/clip/FlirtyBlitheGrouseDancingBanana-Ep00HRWZEGV_tgww) / [Tokhi](https://clips.twitch.tv/SavageHeadstrongPuffinUWot-VBxToiP4isNQVs4Y)  
 * [**Bed of Chaos v2**](https://www.youtube.com/watch?v=PYA5qO6_iZM) \- Lecho del Caos safe  
 * **Seath** \- [Guia](https://youtu.be/ic7fxKvIJJo?si=fuVfo9SfBRESR3Ti&t=42)  
-* **Gwyn** \- [Guia1](https://www.youtube.com/watch?v=d2RoiJcKKnw) / [Guia2](https://www.youtube.com/watch?v=K5SK0NInces) / [RNGs](https://www.youtube.com/watch?v=u2ooK3rmsMA&feature=youtu.be)  
+* **Gwyn** \- [Guia](https://www.youtube.com/watch?v=d2RoiJcKKnw) / [RNGs](https://www.youtube.com/watch?v=u2ooK3rmsMA&feature=youtu.be)  
 * **Master Run Bosses** \- Playlist de bosses debufados / [1](https://www.youtube.com/playlist?list=PLU311asF84iperg23UKCcavMO_-K_Evww) / [2](https://www.youtube.com/playlist?list=PLU311asF84irsGwsnWQnbEuRXSR7UqptW) / [3](https://www.youtube.com/playlist?list=PLU311asF84ir1xLYgvHA-ZccEDRnFJPcP)  
 * [**Hitboxes Showcase**](https://www.youtube.com/playlist?list=PLC6oP5_CzIGVZ-ASFAYTCXMU1FkNIvY_5) \- Detalle de los ataques de jefes
 
@@ -147,3 +147,5 @@ Herramientas, Rutas, Trucos y Consejos
 * [**AB Master Run**](https://www.youtube.com/watch?v=UqvUEiUfZqQ)  
 * [**AB SL1 No Roll**](https://www.youtube.com/watch?v=FU_0J8mWark)
 * [**Notas**](https://docs.google.com/document/d/1bBdpUJwSewV8i9ew8ugXBi2Qm2ps7_-QfWGdXksEmWk/edit?tab=t.0) · [**Guia**](https://www.youtube.com/watch?v=wHqvwUaRkTA)
+* pinwheel
+* [Gwyn - Guia2](https://www.youtube.com/watch?v=K5SK0NInces)
