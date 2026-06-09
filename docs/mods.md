@@ -38,7 +38,6 @@ Selección de mods para tu partida
 - [**Gangnam Style**](https://www.nexusmods.com/darksoulsremastered/mods/907) \- Replace the wave gesture with Gangnam Style
 - [**Bucket head**](https://www.nexusmods.com/darksoulsremastered/mods/392) \- Replace the sack model with a bucket
 - [**Fast andre**](https://www.nexusmods.com/darksoulsremastered/mods/261) \- Change Andre's speed to be either 100 times or 0.1 times
-- [**Miyazaki Dragon Torso**](https://www.nexusmods.com/darksoulsremastered/mods/440) \- Replace Dragon Torso with Miyazali
 - [**Custom Ariamis Painting**](https://www.nexusmods.com/darksoulsremastered/mods/435) \- Change the Anor Londo' Ariamis painting
 - [**Rest Emote**](https://www.nexusmods.com/darksoulsremastered/mods/353) \- Replace the Prayer gesture with the Rest gesture
 - [**Vine Parry SFX**](https://www.nexusmods.com/darksoulsremastered/mods/378) \- Replace the sound effect when you successfully parry
@@ -57,6 +56,7 @@ Selección de mods para tu partida
 \+\*  
 [https://www.nexusmods.com/darksouls/mods/823](https://www.nexusmods.com/darksouls/mods/823)  BKH recolor \*  
 [https://www.nexusmods.com/darksouls/mods/1501](https://www.nexusmods.com/darksouls/mods/1501)  crow recolor x  
-[https://www.nexusmods.com/darksouls/mods/123](https://www.nexusmods.com/darksouls/mods/123)  dusk crown fix x 
+[https://www.nexusmods.com/darksouls/mods/123](https://www.nexusmods.com/darksouls/mods/123)  dusk crown fix x
+[**Miyazaki Dragon Torso**](https://www.nexusmods.com/darksoulsremastered/mods/440) \- Replace Dragon Torso with Miyazaki x
 
 [**ptde-bonfire-mod**](https://www.patreon.com/posts/ptde-bonfire-mod-135563882) 
