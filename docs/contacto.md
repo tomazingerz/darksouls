@@ -90,12 +90,12 @@
   </a>
 
   <a href="https://www.tiktok.com/@tomazingerz" target="_blank" class="card-contacto">
-    <img src="https://img.icons8.com/color/96/tiktok.png" alt="TikTok">
+    <img src="https://cdn-icons-png.flaticon.com/512/3046/3046121.png" alt="TikTok">
     <h3>TikTok</h3>
   </a>
 
   <a href="https://steamcommunity.com/profiles/76561198059039846" target="_blank" class="card-contacto">
-    <img src="https://img.icons8.com/color/96/steam.png" alt="Steam">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/960px-Steam_icon_logo.svg.png?_=20220611141426" alt="Steam">
     <h3>Steam</h3>
   </a>
 
