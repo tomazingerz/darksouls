@@ -1,5 +1,5 @@
 # WIKI
-Herramientas, Rutas, Trucos y Consejos
+_Herramientas, Rutas, Trucos y Consejos_
 
 ## Tools  
 > _Recomendado para rutear/jugar_
