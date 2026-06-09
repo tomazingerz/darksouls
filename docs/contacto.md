@@ -1,8 +1,8 @@
 # Contacto
 ## Sugerencias
 > _¡Ponte en contacto conmigo y envía mejoras y sugerencias!_
-- [Github](https://github.com/tomazingerz)
-- [Buzón de Sugerencias](https://docs.google.com/forms/d/e/1FAIpQLSeXTPEGi2238BEYzgzjw1RCJNOmriQXpZGqXuBWznl2yybmdQ/viewform?usp=publish-editor)
+- 🌐 [Github](https://github.com/tomazingerz)
+- 📥 [Buzón de Sugerencias](https://docs.google.com/forms/d/e/1FAIpQLSeXTPEGi2238BEYzgzjw1RCJNOmriQXpZGqXuBWznl2yybmdQ/viewform?usp=publish-editor)
 
 ## RRSS
 > _¡Sígueme en mis redes sociales!_
