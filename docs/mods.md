@@ -54,9 +54,9 @@ Selección de mods para tu partida
 - [**More Online Messages**](https://www.nexusmods.com/darksoulsremastered/mods/507) \- Custom community-submitted soapstone messages
 - [**Visible crystal cave**](https://www.nexusmods.com/darksoulsremastered/mods/746) \- Make the invisible paths in the Crystal Cave visible  
 \+\*  
-[https://www.nexusmods.com/darksouls/mods/823](https://www.nexusmods.com/darksouls/mods/823)  BKH recolor \*  
-[https://www.nexusmods.com/darksouls/mods/1501](https://www.nexusmods.com/darksouls/mods/1501)  crow recolor x  
-[https://www.nexusmods.com/darksouls/mods/123](https://www.nexusmods.com/darksouls/mods/123)  dusk crown fix x
-[**Miyazaki Dragon Torso**](https://www.nexusmods.com/darksoulsremastered/mods/440) \- Replace Dragon Torso with Miyazaki x
+* [https://www.nexusmods.com/darksouls/mods/823](https://www.nexusmods.com/darksouls/mods/823)  BKH recolor \*
+* [https://www.nexusmods.com/darksouls/mods/1501](https://www.nexusmods.com/darksouls/mods/1501)  crow recolor x
+* [https://www.nexusmods.com/darksouls/mods/123](https://www.nexusmods.com/darksouls/mods/123)  dusk crown fix x
+* [**Miyazaki Dragon Torso**](https://www.nexusmods.com/darksoulsremastered/mods/440) \- Replace Dragon Torso with Miyazaki x
 
 [**ptde-bonfire-mod**](https://www.patreon.com/posts/ptde-bonfire-mod-135563882) 
