@@ -9,7 +9,7 @@
 </details>
 <details>
 <summary>Wiki</summary>
- - [Tools](DARKSOULS.md#tools)
+ - [Tools!](#/DARKSOULS#tools)
  - [Strats](DARKSOULS.md#strats)
  - [Data](DARKSOULS.md#data)
  - [Bosses](DARKSOULS.md#bosses)
