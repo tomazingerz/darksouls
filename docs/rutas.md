@@ -4,8 +4,8 @@
 _¡Empieza aquí! Elige una_
 > ¡Aprende en detalle una de estas rutas y ganarás mucha consistencia!
 
-#### [Alabarda](01.md) — `1:15~IGT`
-#### [Hybrid](02.md) — `1:30~IGT`
+- #### [Alabarda](01.md) — `1:15~IGT`
+- #### [Hybrid](02.md) — `1:30~IGT`
 
 * **[HYBRID](https://docs.google.com/document/d/1eSmbqp6roVuGBaYUIpvTQv8yKXBDgPk_7Zam8jYk9CU/edit?tab=t.0)** \- 1:30\~IGT / [link](https://youtu.be/xSr-oieVmjw)  
 * **[BKH](https://docs.google.com/document/d/1xIT5qnG2yEQcU7gVAS2WhBhtHeVMF5pbnYvX-gNo9kE/edit?usp=sharing)** \- 1:30\~IGT / [link](https://www.youtube.com/watch?v=N3WZjRmt-UI)
