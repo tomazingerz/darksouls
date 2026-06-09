@@ -3,7 +3,7 @@
 > Tómate tu tiempo en explorar toda la info de la web... ¡Hay mucho por ver! 
 
 <details>
-  <summary>Rutas</summary>
+  <summary>**Rutas**</summary>
   <ul>
     <li><a href="#/rutas?id=ruta-any">Ruta Any%</a></li>
     <li><a href="#/rutas?id=otras-runs">Otras Runs</a></li>
