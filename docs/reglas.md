@@ -13,10 +13,10 @@
 - Blocking an enemy attack or projectile is allowed.
 - Anything that makes you lose health will end your run.
 
-## Hitless & Damageless Rules
+## Hitless & Damageless
 - All of the Hitless & Damageless rules apply.
 
-## Specific Rules for Dark Souls
+## Specific Rules
 - Major glitches are NOT ALLOWED (AI Break, Quantity Storage, etc.). Sequence breaking events are NOT ALLOWED, besides the following ones:
 - **Duke skip is allowed**
 - **Ceaseless skip is allowed**
