@@ -2,11 +2,11 @@
 
 > Tómate tu tiempo en explorar toda la info de la web... ¡Hay mucho por ver! 
 
-<details>
-<summary>Rutas</summary>
- - [Any%](rutas.md#ruta-any)
- - [Otras Runs](rutas.md#otras-runs)
-</details>
+> <details>
+> <summary>Rutas</summary>
+>  - [Any%](rutas.md#ruta-any)
+>  - [Otras Runs](rutas.md#otras-runs)
+> </details>
 <details>
 <summary>Wiki</summary>
  - [Tools!](#/DARKSOULS#tools)
