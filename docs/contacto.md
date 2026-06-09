@@ -1,11 +1,11 @@
 # Contacto
 ## Sugerencias
-> ¡Ponte en contacto conmigo y envía mejoras y sugerencias!
+> _¡Ponte en contacto conmigo y envía mejoras y sugerencias!_
 - [Github](https://github.com/tomazingerz)
 - [Buzón de Sugerencias](https://docs.google.com/forms/d/e/1FAIpQLSeXTPEGi2238BEYzgzjw1RCJNOmriQXpZGqXuBWznl2yybmdQ/viewform?usp=publish-editor)
 
 ## RRSS
-> ¡Sígueme en mis redes sociales!
+> _¡Sígueme en mis redes sociales!_
 - [Spotify](https://open.spotify.com/user/tomazingerz)
 - [Steam](https://steamcommunity.com/profiles/76561198059039846)
 - [TikTok](https://www.tiktok.com/@tomazingerz)
