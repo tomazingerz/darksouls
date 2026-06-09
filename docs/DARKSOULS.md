@@ -93,7 +93,7 @@
 * **Insane Strafe** \- Sala de NL sin baitear fantasmas / [Clip1](https://clips.twitch.tv/BraveSingleBeaverChocolateRain-wsY_hye5XaEESzWZ) / [Clip2](https://clips.twitch.tv/NaiveAdventurousKeyboardSoBayed-fMucAWnNmS3ky0u3) / [Pathing](https://pbs.twimg.com/media/GmKpK-Oa8AAxg6S?format=jpg&name=large)  
 * [**Duke Skip Fall Control**](https://www.youtube.com/watch?v=L_l4D9eOVsY) \- Strat para runs No Damage  
 * [**Hydra strat**](https://www.youtube.com/watch?v=G2KybF94-Y8) \- Pelea cuerpo a cuerpo / [Safe Spot](https://www.youtube.com/watch?v=Onys0ohs5Jg) / [Bow](https://www.youtube.com/watch?v=2rU9c1f9wH8)  
-* [**Moveswap**](https://www.youtube.com/watch?v=ULYhIZiwGXs&t=90s) \- Cambia el moveset de un arma \[DSR\] / [Ejemplo](https://youtu.be/-9SUaJdnbKo) / Macro [1](https://pbs.twimg.com/media/Gm2ADM4bkAA-Kwt?format=jpg&name=large) [2](https://pbs.twimg.com/media/Gm2AENIakAExcpV?format=jpg&name=large) [3](https://pbs.twimg.com/media/Gm2AF8IaAAAim7y?format=png&name=small)  
+* [**Moveswap**](https://www.youtube.com/watch?v=ULYhIZiwGXs&t=90s) \- Cambia el moveset de un arma `DSR` / [Ejemplo](https://youtu.be/-9SUaJdnbKo) / Macro [1](https://pbs.twimg.com/media/Gm2ADM4bkAA-Kwt?format=jpg&name=large) [2](https://pbs.twimg.com/media/Gm2AENIakAExcpV?format=jpg&name=large) [3](https://pbs.twimg.com/media/Gm2AF8IaAAAim7y?format=png&name=small)  
 * [**Great Hollow Lizards**](https://www.youtube.com/watch?v=me6WBBkMI6o) \- Guia de todos los items del Great Hollow  
 * [**Blue Titanite Slab**](https://www.youtube.com/watch?v=osMiH0JK8uY) \- Looting the Blue Slab with bow lineups  
 * [**Infinite Soft Humanity Farm**](https://www.youtube.com/clip/Ugkx7PqhR0PJwi69Gdr8TFsCSS4MkdRQKPfI) \- Only if you don’t do Duke Skip  
