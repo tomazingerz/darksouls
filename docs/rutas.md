@@ -4,9 +4,9 @@
 ¡Empieza aquí! Elige una
 > ¡Aprende en detalle una de estas rutas y ganarás mucha consistencia!
 
-### [Alabarda](01.md)<span class="ocultar-sidebar"> — `1:15~IGT`</span>
-### [Hybrid](02.md)<span class="ocultar-sidebar"> — `1:30~IGT`</span>
-### [BKH](03.md)<span class="ocultar-sidebar"> — `1:30~IGT`</span>
+- ### [Alabarda](01.md)<span class="ocultar-sidebar"> — `1:15~IGT`</span>
+- ### [Hybrid](02.md)<span class="ocultar-sidebar"> — `1:30~IGT`</span>
+- ### [BKH](03.md)<span class="ocultar-sidebar"> — `1:30~IGT`</span>
 
 ## Otras Runs
 
