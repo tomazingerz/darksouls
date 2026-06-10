@@ -133,4 +133,4 @@ Herramientas, Rutas, Trucos y Consejos
 * [**Notas**](https://docs.google.com/document/d/1bBdpUJwSewV8i9ew8ugXBi2Qm2ps7_-QfWGdXksEmWk/edit?tab=t.0) · [**Guia**](https://www.youtube.com/watch?v=wHqvwUaRkTA)
 * pinwheel
 * [Gwyn - Guia2](https://www.youtube.com/watch?v=K5SK0NInces)
-* [Rutas](rutas.md)
+* [Rutas](rutas.md) & Guias
