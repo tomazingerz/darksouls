@@ -58,4 +58,4 @@ Selección de mods para tu partida
 * [https://www.nexusmods.com/darksouls/mods/823](https://www.nexusmods.com/darksouls/mods/823)  BKH recolor \*
 * [https://www.nexusmods.com/darksouls/mods/1501](https://www.nexusmods.com/darksouls/mods/1501)  crow recolor x
 * [https://www.nexusmods.com/darksouls/mods/123](https://www.nexusmods.com/darksouls/mods/123)  dusk crown fix x
-* [**Miyazaki Dragon Torso**](https://www.nexusmods.com/darksoulsremastered/mods/440) \- Replace Dragon Torso with Miyazaki x
+* [**Miyazaki Dragon Torso**](https://www.nexusmods.com/darksoulsremastered/mods/440) \- Replace Dragon Torso with Miyazaki `Deprecated`
