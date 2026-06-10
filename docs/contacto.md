@@ -4,9 +4,6 @@
 - 🌐 [Github](https://github.com/tomazingerz)
 - 📥 [Buzón de Sugerencias](https://docs.google.com/forms/d/e/1FAIpQLSeXTPEGi2238BEYzgzjw1RCJNOmriQXpZGqXuBWznl2yybmdQ/viewform?usp=publish-editor)
 
-## Devs
-> _¡Gracias a [Enric](https://github.com/Enriclop11) y [Chipo](https://github.com/danimroca) por su inestimable ayuda!_
-
 ## RRSS
 > _¡Sígueme en mis redes sociales!_
 
