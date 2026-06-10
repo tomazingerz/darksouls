@@ -134,4 +134,3 @@ Herramientas, Rutas, Trucos y Consejos
 * pinwheel
 * [Gwyn - Guia2](https://www.youtube.com/watch?v=K5SK0NInces)
 * [Rutas](rutas.md)
-* Logo DS mas pequeño
