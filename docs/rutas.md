@@ -1,12 +1,32 @@
 # RUTAS
 
-## Ruta Any%  
+<style>
+  /* Reduce el espacio vertical gigante eliminando el margen del h3 dentro de la lista */
+  .lista-rutas h3 {
+    margin: 0 !important; 
+    display: inline-block; /* Alinea perfectamente el texto con el puntito de la lista */
+    font-size: 1.1em !important; /* Ajusta el tamaño por si quieres homogeneizarlo */
+  }
+
+  /* Controla la separación exacta que quieres entre cada fila */
+  .lista-rutas li {
+    margin-bottom: 12px !important; 
+  }
+</style>
+
+# RUTAS
+
+## Ruta Any%
 ¡Empieza aquí! Elige una
 > ¡Aprende en detalle una de estas rutas y ganarás mucha consistencia!
 
-- ### [Alabarda](01.md)<span class="ocultar-sidebar"> — `1:15~IGT`</span>
-- ### [Hybrid](02.md)<span class="ocultar-sidebar"> — `1:30~IGT`</span>
-- ### [BKH](03.md)<span class="ocultar-sidebar"> — `1:30~IGT`</span>
+<div class="lista-rutas">
+
+- ### [Alabarda](01.md)<span class="ocultar-sidebar"> - `1:15~IGT`</span>
+- ### [Hybrid](02.md)<span class="ocultar-sidebar"> - `1:30~IGT`</span>
+- ### [BKH](03.md)<span class="ocultar-sidebar"> - `1:30~IGT`</span>
+
+</div>
 
 ## Otras Runs
 
