@@ -38,7 +38,8 @@ Herramientas, Rutas, Trucos y Consejos
 > _Información relevante para Any%_
 
 * [**Vagrants**](https://youtu.be/Xqg6FeRe0I4) \- Recomendable jugar offline  
-* **How Enemies Detect You** \- [Sound](https://www.youtube.com/watch?v=mdL75pAvt8I) \- [Smell](https://www.youtube.com/watch?v=y4SUfS9ymBU)  
+* **How Enemies Detect You** \- [Sound](https://www.youtube.com/watch?v=mdL75pAvt8I) \- [Smell](https://www.youtube.com/watch?v=y4SUfS9ymBU)
+* [Counterdamage](http://darksouls.wikidot.com/counter) \- Damage boost tech
 * [**Quelana's Safe Area**](https://www.youtube.com/watch?v=AuiSVkcNVyA) \- Coffin Speffect around Quelana  
 * [**Texto skip**](https://youtu.be/p3TZtkKkvGU) \- Evita texto del HUD  
 * [**Confirmation Box Behavior**](https://soulsspeedruns.com/darksouls/confirmation-box-behaviour) \- Comportamiento de los diálogos Si/No  
