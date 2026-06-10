@@ -1,6 +1,6 @@
    
 # MODS SELECTION   
-_Selección de mods para tu partida_
+Selección de mods para tu partida
 
 ## Tools  
 > _Herramientas_ 
