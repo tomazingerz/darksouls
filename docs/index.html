@@ -456,8 +456,9 @@
             if (!searchEl) return;
             var observer = new MutationObserver(function() {
               searchEl.querySelectorAll('.results-panel a').forEach(function(item) {
-                ['.title', '.body'].forEach(function(sel) {
-                  var el = item.querySelector(sel);
+                var titleEl = item.querySelector('h2');
+                var bodyEl = item.querySelector('p');
+                [titleEl, bodyEl].forEach(function(el) {
                   if (!el) return;
                   function escapeText(node) {
                     if (node.nodeType === 3) {
@@ -477,7 +478,7 @@
                         .replace(/-{3,}/g, '')
                         .trim();
                       if (text !== node.textContent) node.textContent = text;
-                    } else if (node.nodeType === 1 && node.tagName !== 'MARK') {
+                    } else if (node.nodeType === 1 && node.tagName !== 'MARK' && node.tagName !== 'EM') {
                       Array.from(node.childNodes).forEach(escapeText);
                     }
                   }
