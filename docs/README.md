@@ -7,7 +7,7 @@ _Todo lo que necesitas saber para mejorar tu experiencia en la No-Hit_
 > _Tómate tu tiempo para explorar toda la info de la web... ¡Hay mucho por ver!_
 
 <details>
-  <summary>Rutas</summary>
+  <summary><strong>Rutas</strong></summary>
   <ul>
     <li><a href="#/rutas?id=ruta-any">Ruta Any%</a></li>
     <li><a href="#/rutas?id=otras-runs">Otras Runs</a></li>
@@ -15,7 +15,7 @@ _Todo lo que necesitas saber para mejorar tu experiencia en la No-Hit_
 </details>
 
 <details>
-  <summary>Wiki</summary>
+  <summary><strong>Wiki</strong></summary>
   <ul>
     <li><a href="#/DARKSOULS?id=tools">Tools</a></li>
     <li><a href="#/DARKSOULS?id=strats">Strats</a></li>
@@ -29,7 +29,7 @@ _Todo lo que necesitas saber para mejorar tu experiencia en la No-Hit_
 </details>
 
 <details>
-  <summary>Mod Selection</summary>
+  <summary><strong>Mod Selection</strong></summary>
   <ul>
     <li><a href="#/mods?id=tools">Tools</a></li>
     <li><a href="#/mods?id=shield">Shield</a></li>
@@ -42,7 +42,7 @@ _Todo lo que necesitas saber para mejorar tu experiencia en la No-Hit_
 </details>
 
 <details>
-  <summary>Reglas</summary>
+  <summary><strong>Reglas</strong></summary>
   <ul>
     <li><a href="#/reglas?id=general-rules">General Rules</a></li>
     <li><a href="#/reglas?id=damageless-rules">Damageless Rules</a></li>
@@ -55,7 +55,7 @@ _Todo lo que necesitas saber para mejorar tu experiencia en la No-Hit_
 </details>
 
 <details>
-  <summary>Acceso al juego</summary>
+  <summary><strong>Acceso al juego</strong></summary>
   <ul>
     <li><a href="#/remastered?id=remastered">Remastered</a></li>
     <li><a href="#/remastered?id=prepare-to-die-edition">Prepare To Die Edition</a></li>
@@ -63,7 +63,7 @@ _Todo lo que necesitas saber para mejorar tu experiencia en la No-Hit_
 </details>
 
 <details>
-  <summary>Troubleshooting</summary>
+  <summary><strong>Troubleshooting</strong></summary>
   <ul>
     <li><a href="#/config?id=configuración-previa">Configuración previa</a></li>
     <li><a href="#/config?id=notable-bugs-and-fixes">Notable Bugs and fixes</a></li>
@@ -71,7 +71,7 @@ _Todo lo que necesitas saber para mejorar tu experiencia en la No-Hit_
 </details>
 
 <details>
-  <summary>Contacto</summary>
+  <summary><strong>Contacto</strong></summary>
   <ul>
     <li><a href="#/contacto?id=sugerencias">Sugerencias</a></li>
     <li><a href="#/contacto?id=rrss">RRSS</a></li>
