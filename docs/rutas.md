@@ -1,7 +1,7 @@
 # RUTAS
 
 ## Ruta Any%  
-_¡Empieza aquí! Elige una_
+¡Empieza aquí! Elige una
 > ¡Aprende en detalle una de estas rutas y ganarás mucha consistencia!
 
 ### [Alabarda](01.md)<span class="ocultar-sidebar"> — `1:15~IGT`</span>
