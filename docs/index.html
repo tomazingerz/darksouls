@@ -462,8 +462,10 @@
                   function escapeText(node) {
                     if (node.nodeType === 3) {
                       var text = node.textContent;
-                      var escaped = text.replace(/</g, '&lt;').replace(/>/g, '&gt;');
-                      if (escaped !== text) node.textContent = escaped;
+                      text = text.replace(/</g, '&lt;').replace(/>/g, '&gt;');
+                      text = text.replace(/\[([^\]]*)\]\([^)]*\)/g, '$1');
+                      text = text.replace(/\[([^\]]*)\]\[[^\]]*\]/g, '$1');
+                      if (text !== node.textContent) node.textContent = text;
                     } else if (node.nodeType === 1 && node.tagName !== 'MARK') {
                       Array.from(node.childNodes).forEach(escapeText);
                     }
