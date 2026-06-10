@@ -14,8 +14,6 @@
   }
 </style>
 
-# RUTAS
-
 ## Ruta Any%
 ¡Empieza aquí! Elige una
 > ¡Aprende en detalle una de estas rutas y ganarás mucha consistencia!
