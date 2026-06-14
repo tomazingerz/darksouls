@@ -1,7 +1,7 @@
 # RUTAS
 
-> Cuando me de menos pereza arreglaré esta sección y haré una sección de guias. 
-> Con los videos de las runs de ejemplo van sobrados.
+> Cuando me de menos pereza arreglaré esta sección y haré además una sección de guias. 
+> De momento con los videos de las runs de ejemplo van sobrados. - 14/06/2026
 
 <style>
   /* Reduce el espacio vertical gigante eliminando el margen del h3 dentro de la lista */
