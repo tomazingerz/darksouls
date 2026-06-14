@@ -1,5 +1,8 @@
 # RUTAS
 
+> Cuando me de menos pereza arreglaré esta sección y haré una sección de guias. 
+> Con los videos de las runs de ejemplo van sobrados.
+
 <style>
   /* Reduce el espacio vertical gigante eliminando el margen del h3 dentro de la lista */
   .lista-rutas h3 {
