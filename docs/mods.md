@@ -37,7 +37,8 @@ Selección de mods para tu partida
 - [**Fortnite dance**](https://www.nexusmods.com/darksoulsremastered/mods/163) \- Replace the bow gesture with the default dance from Fortnite
 - [**Gangnam Style**](https://www.nexusmods.com/darksoulsremastered/mods/907) \- Replace the wave gesture with Gangnam Style
 - [**Bucket head**](https://www.nexusmods.com/darksoulsremastered/mods/392) \- Replace the sack model with a bucket
-- [**Fast andre**](https://www.nexusmods.com/darksoulsremastered/mods/261) \- Change Andre's speed to be either 100 times or 0.1 times
+- [**Fast Andre**](https://www.nexusmods.com/darksoulsremastered/mods/261) \- Change Andre's speed to be either 100 times or 0.1 times
+- [**Freaky Andre**](https://www.nexusmods.com/darksoulsremastered/mods/1298) \- why he so freaky tho
 - [**Custom Ariamis Painting**](https://www.nexusmods.com/darksoulsremastered/mods/435) \- Change the Anor Londo' Ariamis painting
 - [**Rest Emote**](https://www.nexusmods.com/darksoulsremastered/mods/353) \- Replace the Prayer gesture with the Rest gesture
 - [**Vine Parry SFX**](https://www.nexusmods.com/darksoulsremastered/mods/378) \- Replace the sound effect when you successfully parry
