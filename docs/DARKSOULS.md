@@ -128,7 +128,8 @@ Herramientas, Rutas, Trucos y Consejos
 * **Guia Baryon** \- [link](https://youtu.be/PqxRkxUZQXI)  
 * **DS1 Runs** \- [link](https://www.youtube.com/playlist?list=PLk8A1d99XLte4NeP-wUkJYobFnrS_TOb0)  
 * **ABDLC Sorcery** \- [link](https://www.youtube.com/watch?v=nRYpnI36Axk&list=TLPQMjkwMTIwMjaL-Fh9Ozz8jg&index=5&pp=iAQBsAgC)  
-* [**AB Master Run**](https://www.youtube.com/watch?v=UqvUEiUfZqQ)  
+* [**AB Master Run**](https://www.youtube.com/watch?v=UqvUEiUfZqQ)
+* [**MASTER MASTER RUN**](https://www.youtube.com/watch?v=GtctxR7nPN4)
 * [**AB SL1 No Roll**](https://www.youtube.com/watch?v=FU_0J8mWark)
 * [**Notas**](https://docs.google.com/document/d/1bBdpUJwSewV8i9ew8ugXBi2Qm2ps7_-QfWGdXksEmWk/edit?tab=t.0) · [**Guia**](https://www.youtube.com/watch?v=wHqvwUaRkTA)
 * pinwheel
