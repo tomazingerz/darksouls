@@ -78,4 +78,4 @@ Todo lo que necesitas saber para mejorar tu experiencia en la No-Hit
   </ul>
 </details>
 
-![Texto alternativo](https://cdn.7tv.app/emote/01G891CMJ80003NSZ1HDHK6F7Y/4x.webp)
+![Texto alternativo](https://cdn.7tv.app/emote/01KVNMTF38R5XE9K0G1ZZPD5FW/4x.webp)
