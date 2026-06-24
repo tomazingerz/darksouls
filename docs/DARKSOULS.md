@@ -31,7 +31,7 @@ Herramientas, Rutas, Trucos y Consejos
 * [**Izalith Titanite Demon**](https://www.youtube.com/watch?v=xn2OgWDnjgA) \- Pasar del demonio safe / [Ángulo](https://pbs.twimg.com/media/GjNMy15XEAAN-28?format=jpg&name=medium)  
 * [**Duke Skip Consumable**](https://www.youtube.com/watch?v=L_l4D9eOVsY) \- Skips de archivos con item / [Short](https://www.youtube.com/watch?v=8nn0GajM0-4)  
 * [**Duke Skip Arrow Cancel**](https://www.youtube.com/watch?v=GOyJLHrv7Ks) \- Skips de archivos con arrow cancel  
-* [**RTSR Setups**](https://www.youtube.com/playlist?list=PLk8A1d99XLtfHWvFV8zm8xyguDzPKteyS) \- Saltos para activar anillo RTSR \- [Cuenca](https://www.twitch.tv/orkallenzar/clip/EnchantingTenuousTofuBigBrother-__kqcFIx_GEFNs7Y) \- [Lower Burg](https://www.twitch.tv/alexsenningod/clip/BombasticHealthyEchidnaVoteNay-RtAHoaZnWdpG3j2L)
+* [**RTSR Setups**](https://www.youtube.com/playlist?list=PLk8A1d99XLtfHWvFV8zm8xyguDzPKteyS) \- Saltos para activar anillo RTSR / [Cuenca](https://www.twitch.tv/orkallenzar/clip/EnchantingTenuousTofuBigBrother-__kqcFIx_GEFNs7Y) / [Lower Burg](https://www.twitch.tv/alexsenningod/clip/BombasticHealthyEchidnaVoteNay-RtAHoaZnWdpG3j2L)
 * **Comarca (1:25\~IGT)** \- Cambios a la ruta de Alabarda / [VOD](https://www.youtube.com/watch?v=nHr50aCoQM0) / [Cortes](https://www.youtube.com/watch?v=ldIhYqmhZQ4) / [AL](https://youtube.com/clip/Ugkxo-LU3mcwXPmZ43CogqOAVUfXtZqIj11L?si=2bK-BC7hM5ZklUZm)
 
 ## Data  
